@@ -1,0 +1,684 @@
+report@config:load 42.34
+Authorized using stored user info.
+report@account:authorize 7.06
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+[ Warn ] $Converting Assets/Projects/Textures/UI/Gameplay/UI-Ingame.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Materials/falldown.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/11.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/10.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/9.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/7.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/6.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/2 1.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/5.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/3 1.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/8.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/grille.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/wall_1.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/wall_2.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/4 1.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/BG_Morning/BG_Morning.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/BG_Morning/BG_Morning_2.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/BG_Morning/FX_Morning.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Projects/Textures/Background/City/BG_Morning/Cloud_Morning.png texture. Change its format from ASTC_RGB_10x10 to "RGBA 32 bit" to speed up export
+[ Warn ] $Failed to process  component on Square (1) (UnityEngine.GameObject)
+[ Warn ] $Converting Assets/Projects/Textures/shapes/City/ground1.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Failed to process  component on Square (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on Square (1) (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on Square (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on Square (1) (UnityEngine.GameObject)
+[ Warn ] $Failed to process  component on Square (UnityEngine.GameObject)
+Exporting assets from Unity...............................................
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 44360.44
+Using D:/TeamOne/BallPlayable/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[23724] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at D:/TeamOne/BallPlayable/LunaTemp/stage1/tmp/fonts/LiberationSans-23724/output_0.png (56kb)
+Resources:
+{}
+report@assets:stage2 4512.31
+report@assets:stage3 480.35
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@code:compose 218.94
+report@config:unity 0.09
+Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 2/25/2022 5:16:11 PM.
+
+Project "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2020;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2020_3;UNITY_2020_3_27 /highentropyva+ /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Newton
+soft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7.2 D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs D:\TeamOne\BallPlayable\Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXButtonScript.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXFireProjectile.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXLoopScript.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXMouseOrbit.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXProjectileScript.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXSceneManager.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\ETFXTarget.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\VFX Library\ParticleEffectsLibrary.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\VFX Library\PEButtonScript.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Demo\Scripts\VFX Library\UICanvasManager.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Scripts\ETFXLightFade.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Scripts\ETFXPitchRandomizer.cs" "D:\TeamOne\BallPlayable\Assets\Epic Toon FX\Scripts\ETFXRotation.cs" D:\TeamOne\BallPlayable\Assets\Projects\Scripts\CameraFollower.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\StartLevel.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMagnetic.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\FollowCharacter.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Damage\DamageToBall.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Enemy\EnemyController.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Star.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ParticleCallback.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Models\DamageType.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Models\GameState.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Models\ItemType.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Models\MoveDirection.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\ButtonEffect.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CoinValueText.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CustomButton.cs D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\ToggleHelper.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Animation.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\AnimationState.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\AnimationStateData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Atlas.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\AtlasAttachmentLoader.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\Attachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\AttachmentLoader.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\AttachmentType.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\BoundingBoxAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\ClippingAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\MeshAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\PathAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\PointAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Attachments\RegionAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\
+Runtime\spine-csharp\Attachments\VertexAttachment.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\BlendMode.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Bone.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\BoneData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Collections\OrderedDictionary.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\ConstraintData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Event.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\EventData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\ExposedList.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\IkConstraint.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\IkConstraintData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\IUpdatable.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Json.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\MathUtils.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\PathConstraint.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\PathConstraintData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Skeleton.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\SkeletonBinary.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\SkeletonBounds.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\SkeletonClipping.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\SkeletonData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\SkeletonJson.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Skin.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Slot.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\SlotData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\TransformConstraint.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\TransformConstraintData.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-csharp\Triangulator.cs "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\AnimationReferenceAsset.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\AtlasAssetBase.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\BlendModeMaterials.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\EventDataReferenceAsset.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\RegionlessAttachmentLoader.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataAsset.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataCompatibility.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataModifierAsset.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Asset Types\SpineAtlasAsset.cs" D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\Following\BoneFollower.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\Following\BoneFollowerGraphic.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\Following\BoundingBoxFollower.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\Following\BoundingBoxFollowerGraphic.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\Following\PointFollower.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonMecanimRootMotion.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonRootMotion.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonRootMotionBase.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonAnimation.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonGraphic.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonMecanim.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderer.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonRendererCustomMaterials\SkeletonGraphicCustomMaterials.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonRendererCustomMaterials\SkeletonRendererCustomMaterials.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderSeparator\SkeletonPartsRenderer.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderSeparator\SkeletonRenderSeparator.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\ActivateBasedOnFlipDirection.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowLocationRigidbody.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowLocationRigidbody2D.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowSkeletonUtilityRootRotation.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\SkeletonUtility.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\SkeletonUtilityBone.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\SkeletonUtilityConstraint.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Deprecated\SlotBlendModes\SlotBlendModes.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\ISkeletonAnimation.cs "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Mesh Generation\DoubleBuffered.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Mesh Generation\MeshGenerator.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Mesh Generation\MeshRendererBuffers.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Mesh Generation\SkeletonRendererInstruction.cs" "D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Mesh Generation\SpineMesh.cs" D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Modules\TK2D\SpriteCollectionAttachmentLoader.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\SkeletonDataModifierAssets\BlendModeMaterials\BlendModeMaterialsAsset.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\SpineAttributes.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\MaterialChecks.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\SkeletonExtensions.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\SkinUtilities.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\TimelineExtensions.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimation.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimationComplete.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimationEnd.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineEvent.cs D:\TeamOne\BallPlayable\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineTrackEntryEnd.cs D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\BaseAudio.cs D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\Bgm.cs D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\Sfx.cs D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SimpleAudio.cs D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs D:\TeamOne\BallPlayable\Assets\Truongtv\Utilities\DontDestroyOnLoad.cs D:\TeamOne\BallPlayable\Assets\Truongtv\Utilities\Extended.cs D:\TeamOne\BallPlayable\Assets\Truongtv\Utilities\Singleton.cs D:\TeamOne\BallPlayable\Assets\Truongtv\Utilities\SingletonScriptableObject.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(21,50): warning CS0649: Field 'GamePlayController.ballUI' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(14,45): warning CS0169: The field 'MagnetItem.adsIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ParticleCallback.cs(8,45): warning CS0649: Field 'ParticleCallback.completeEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(17,44): warning CS0649: Field 'SoundManager.buttonSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs(15,44): warning CS0649: Field 'Coin.mask' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(16,45): warning CS0649: Field 'BallController.attack' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(17,73): warning CS0649: Field 'SoundManager.popupCloseSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(35,50): warning CS0649: Field 'GamePlayController.lifeText' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(13,47): warning CS0649: Field 'BallController.movement' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(24,42): warning CS0649: Field 'SoundInGameManager.ballRescueSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs(10,52): warning CS0649: Field 'CheckPoint.animation' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,62): warning CS0649: Field 'BallAnimation.die' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs(9,45): warning CS0649: Field 'CheckPoint.reviveEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(13,44): warning CS0649: Field 'Gate.ballLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(21,37): warning CS0649: Field 'BallMovement.fallGravityMultiple' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(18,56): warning CS0649: Field 'HeartItem.idleAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\StartLevel.cs(8,45): warning CS0649: Field 'StartLevel.checkPoint' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,171): warning CS0649: Field 'SoundInGameManager.ballInCheckPoint' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(9,19): warning CS0649: Field 'BrokenPlatform.breakDelay' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(12,44): warning CS0649: Field 'SoundInGameManager.win' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(19,40): warning CS0649: Field 'BallMovement.jumpCutMultiple' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(20,28): warning CS0649: Field 'BrokenPlatform.respawnEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,66): warning CS0649: Field 'BallAnimation.getHurt' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(17,45): warning CS0649: Field 'BallController.attackTransform' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(11,47): warning CS0649: Field 'SoundInGameManager.soundManager' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,100): warning CS0649: Field 'SoundInGameManager.ballCollectStar' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(20,29): warning CS0649: Field 'SoundInGameManager.jumpClips' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(17,52): warning CS0649: Field 'TrySkinItem.skin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(16,44): warning CS0649: Field 'SoundManager.sfxList' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(23,29): warning CS0649: Field 'BallMovement.rigidbody2D' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(19,50): warning CS0649: Field 'MagnetItem.move' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(13,44): warning CS0649: Field 'MagnetItem.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,49): warning CS0649: Field 'BallMovement.decceleration' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(19,57): warning CS0649: Field 'Cage.cageBreakAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(14,44): warning CS0649: Field 'HeartItem.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(18,58): warning CS0649: Field 'BallHealth.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,24): warning CS0649: Field 'BallMovement.moveSpeed' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(16,73): warning CS0649: Field 'Cage.rescueAnimation' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(18,53): warning CS0649: Field 'TrySkinItem.container' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(12,48): warning CS0649: Field 'SoundInGameManager.lose' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(12,52): warning CS0649: Field 'BallAnimation.skeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(18,28): warning CS0649: Field 'BrokenPlatform.breakDelayEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(36,44): warning CS0169: The field 'GamePlayController.lifeIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(13,39): warning CS0169: The field 'HeartItem.watchAd' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(22,22): warning CS0169: The field 'BallHealth._firstTimeDieWithType' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(14,53): warning CS0649: Field 'MagnetItem.container' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(17,54): warning CS0649: Field 'BallHealth.waterForce' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(34,40): warning CS0649: Field 'BallMovement.ballRadius' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(36,40): warning CS0649: Field 'BallMovement.JumpCoyoteTime' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(40,46): warning CS0649: Field 'GamePlayController.bossWarning' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,57): warning CS0649: Field 'BallAnimation.idle' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs(13,51): warning CS0649: Field 'Coin.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,188): warning CS0649: Field 'SoundInGameManager.ballRevive' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(30,27): warning CS0169: The field 'BallMovement.boxLayer' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(17,52): warning CS0649: Field 'HeartItem.skeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(16,66): warning CS0649: Field 'MagnetItem.triggerAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(15,44): warning CS0649: Field 'BallMovement.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(22,45): warning CS0649: Field 'GamePlayController.magnetIcon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(12,45): warning CS0649: Field 'Gate.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(27,23): warning CS0649: Field 'BrokenPlatform.sprite' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(11,40): warning CS0649: Field 'BallAttack.pauseDuration' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs(11,45): warning CS0649: Field 'CheckPoint.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(40,45): warning CS0649: Field 'BallMovement.landingEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\FollowCharacter.cs(8,44): warning CS0649: Field 'FollowCharacter.followTransform' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(26,27): warning CS0649: Field 'BallMovement.groundLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,75): warning CS0649: Field 'SoundInGameManager.ballDie' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(32,27): warning CS0649: Field 'BallMovement.groundCheckPoint' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(38,45): warning CS0649: Field 'GamePlayController.bossGroup' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,84): warning CS0649: Field 'SoundInGameManager.ballCollectCoin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(39,40): warning CS0649: Field 'GamePlayController.bossHp' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(34,45): warning CS0649: Field 'GamePlayController.hpPrefabs' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(18,45): warning CS0649: Field 'BallHealth.damageEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(17,42): warning CS0649: Field 'BallHealth.damageForce' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(16,53): warning CS0649: Field 'HeartItem.container' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\S
+cripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(15,52): warning CS0649: Field 'MagnetItem.skeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,27): warning CS0649: Field 'SoundInGameManager.ballTrySkin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(22,44): warning CS0649: Field 'TrySkinItem.stay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(14,63): warning CS0649: Field 'MagnetItem.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,35): warning CS0649: Field 'BallMovement.acceleration' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(21,50): warning CS0649: Field 'HeartItem.move' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs(9,58): warning CS0649: Field 'ObjectCollision.collisionEnter2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(21,44): warning CS0649: Field 'Cage.triggerLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(17,57): warning CS0649: Field 'SoundManager.popupOpenSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,133): warning CS0649: Field 'SoundInGameManager.ballCollectMagnet' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(39,23): warning CS0169: The field 'BallMovement.forcePushBox' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(16,45): warning CS0169: The field 'HeartItem.adsIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(24,27): warning CS0649: Field 'SoundInGameManager.cageBreakSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(36,56): warning CS0649: Field 'BallMovement.jumpBufferTime' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(18,66): warning CS0649: Field 'HeartItem.triggerAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMagnetic.cs(8,54): warning CS0649: Field 'BallMagnetic.magnetEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(30,50): warning CS0649: Field 'GamePlayController.starList' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(15,38): warning CS0649: Field 'SoundManager.sfxPrefab' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Star.cs(11,51): warning CS0649: Field 'Star.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs(9,101): warning CS0649: Field 'ObjectCollision.collisionExit2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(14,59): warning CS0649: Field 'BallAnimation.mix' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(33,46): warning CS0649: Field 'GamePlayController.hpList' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(27,48): warning CS0649: Field 'GamePlayController.coinValuePrefab' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs(13,45): warning CS0649: Field 'Coin.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs(9,57): warning CS0649: Field 'ObjectTrigger.triggerEnter2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,151): warning CS0649: Field 'SoundInGameManager.ballWin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs(9,80): warning CS0649: Field 'ObjectCollision.collisionStay2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(16,63): warning CS0649: Field 'HeartItem.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(11,54): warning CS0649: Field 'BallAttack.timeScale' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CustomButton.cs(12,44): warning CS0649: Field 'CustomButton.targetGraphic' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(19,45): warning CS0649: Field 'HeartItem.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,116): warning CS0649: Field 'SoundInGameManager.ballCollectHeart' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,74): warning CS0649: Field 'BallAnimation.drowning' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\StartLevel.cs(9,50): warning CS0169: The field 'StartLevel.levelText' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(21,46): warning CS0649: Field 'TrySkinItem.audio' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(16,28): warning CS0649: Field 'BrokenPlatform.breakEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(18,63): warning CS0649: Field 'TrySkinItem.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(22,27): warning CS0649: Field 'SoundInGameManager.spring' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(11,19): warning CS0649: Field 'BrokenPlatform.respawnDelay' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(18,23): warning CS0649: Field 'BallMovement.jumpForce' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,63): warning CS0649: Field 'BallMovement.deccelTime' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(19,44): warning CS0649: Field 'MagnetItem.stay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(15,38): warning CS0649: Field 'BallHealth.maxHp' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(21,23): warning CS0649: Field 'BallMovement.gravityScale' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(18,52): warning CS0649: Field 'Cage.cageSkeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Damage\DamageToBall.cs(13,38): warning CS0649: Field 'DamageToBall.damage' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(22,50): warning CS0649: Field 'TrySkinItem.move' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(41,50): warning CS0649: Field 'GamePlayController.bossSkeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(13,42): warning CS0649: Field 'BallAttack.attackForce' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Star.cs(11,45): warning CS0649: Field 'Star.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,159): warning CS0649: Field 'SoundInGameManager.ballExplode' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(15,49): warning CS0649: Field 'BallMovement.totalDisplay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs(9,96): warning CS0649: Field 'ObjectTrigger.triggerExit2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,40): warning CS0649: Field 'SoundInGameManager.ballLanding' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CoinValueText.cs(9,50): warning CS0649: Field 'CoinValueText.coinValueText' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs(9,77): warning CS0649: Field 'ObjectTrigger.triggerStay2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(17,61): warning CS0649: Field 'BallController.heartEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Damage\DamageToBall.cs(11,45): warning CS0649: Field 'DamageToBall.damageType' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(20,46): warning CS0649: Field 'HeartItem.audio' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,90): warning CS0649: Field 'BallAnimation.smile' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(19,41): warning CS0649: Field 'TrySkinItem._trySkinName' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,53): warning CS0649: Field 'SoundInGameManager.ballHurt' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(17,41): warning CS0649: Field 'Cage.trySkinName' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(11,45): warning CS0649: Field 'Gate.gateLight' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(28,27): warning CS0649: Field 'BallMovement.wallLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(15,33): warning CS0649: Field 'SoundInGameManager.bossFight' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(18,46): warning CS0649: Field 'MagnetItem.audio' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(40,60): warning CS0649: Field 'BallMovement.moveEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(37,41): warning CS0649: Field 'GamePlayController.pauseButton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(16,57): warning CS0649: Field 'Cage.startAnimation' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CoinValueText.cs(10,49): warning CS0649: Field 'CoinValueText.curve' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(18,45): warning CS0169: The field 'TrySkinItem.adsIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,83): warning CS0649: Field 'BallAnimation.revive' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(12,47): warning CS0649: Field 'BallController.magnetic' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(15,29): warning CS0649: Field 'SoundInGameManager.bgm' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(12,44): warning CS0649: Field 'BallAttack.attackLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(14,45): warning CS0649: Field 'BallController.health' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(20,45): warning CS0649: Field 'Cage.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,63): warning CS0649: Field 'SoundInGameManager.ballAttack' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(16,44): warning CS0649: Field 'TrySkinItem.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(21,44): warning CS0649: Field 'HeartItem.stay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(10,44): warning CS0649: Field 'Gate.target' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\FollowCharacter.cs(9,42): warning CS0649: Field 'FollowCharacter.offset' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(15,52): warning CS0649: Field 'Cage.ballImprisoned' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(18,63): warning CS0649: Field 'BallHealth.dieEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMagnetic.cs(8,45): warning CS0649: Field 'BallMagnetic.magnetic' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(16,56): warning CS0649: Field 'MagnetItem.idleAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - e8f85bda-c332-4e0e-9b8c-be0c3c272115
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+
+Build succeeded.
+
+
+
+"D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(21,50): warning CS0649: Field 'GamePlayController.ballUI' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(14,45): warning CS0169: The field 'MagnetItem.adsIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ParticleCallback.cs(8,45): warning CS0649: Field 'ParticleCallback.completeEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(17,44): warning CS0649: Field 'SoundManager.buttonSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs(15,44): warning CS0649: Field 'Coin.mask' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(16,45): warning CS0649: Field 'BallController.attack' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(17,73): warning CS0649: Field 'SoundManager.popupCloseSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(35,50): warning CS0649: Field 'GamePlayController.lifeText' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(13,47): warning CS0649: Field 'BallController.movement' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(24,42): warning CS0649: Field 'SoundInGameManager.ballRescueSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs(10,52): warning CS0649: Field 'CheckPoint.animation' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,62): warning CS0649: Field 'BallAnimation.die' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs(9,45): warning CS0649: Field 'CheckPoint.reviveEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(13,44): warning CS0649: Field 'Gate.ballLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(21,37): warning CS0649: Field 'BallMovement.fallGravityMultiple' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(18,56): warning CS0649: Field 'HeartItem.idleAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\StartLevel.cs(8,45): warning CS0649: Field 'StartLevel.checkPoint' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,171): warning CS0649: Field 'SoundInGameManager.ballInCheckPoint' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(9,19): warning CS0649: Field 'BrokenPlatform.breakDelay' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(12,44): warning CS0649: Field 'SoundInGameManager.win' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(19,40): warning CS0649: Field 'BallMovement.jumpCutMultiple' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(20,28): warning CS0649: Field 'BrokenPlatform.respawnEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,66): warning CS0649: Field 'BallAnimation.getHurt' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(17,45): warning CS0649: Field 'BallController.attackTransform' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(11,47): warning CS0649: Field 'SoundInGameManager.soundManager' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,100): warning CS0649: Field 'SoundInGameManager.ballCollectStar' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(20,29): warning CS0649: Field 'SoundInGameManager.jumpClips' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(17,52): warning CS0649: Field 'TrySkinItem.skin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(16,44): warning CS0649: Field 'SoundManager.sfxList' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(23,29): warning CS0649: Field 'BallMovement.rigidbody2D' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(19,50): warning CS0649: Field 'MagnetItem.move' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(13,44): warning CS0649: Field 'MagnetItem.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,49): warning CS0649: Field 'BallMovement.decceleration' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(19,57): warning CS0649: Field 'Cage.cageBreakAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scrip
+ts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(14,44): warning CS0649: Field 'HeartItem.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(18,58): warning CS0649: Field 'BallHealth.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,24): warning CS0649: Field 'BallMovement.moveSpeed' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(16,73): warning CS0649: Field 'Cage.rescueAnimation' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(18,53): warning CS0649: Field 'TrySkinItem.container' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(12,48): warning CS0649: Field 'SoundInGameManager.lose' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(12,52): warning CS0649: Field 'BallAnimation.skeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(18,28): warning CS0649: Field 'BrokenPlatform.breakDelayEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(36,44): warning CS0169: The field 'GamePlayController.lifeIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(13,39): warning CS0169: The field 'HeartItem.watchAd' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(22,22): warning CS0169: The field 'BallHealth._firstTimeDieWithType' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(14,53): warning CS0649: Field 'MagnetItem.container' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(17,54): warning CS0649: Field 'BallHealth.waterForce' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(34,40): warning CS0649: Field 'BallMovement.ballRadius' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(36,40): warning CS0649: Field 'BallMovement.JumpCoyoteTime' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(40,46): warning CS0649: Field 'GamePlayController.bossWarning' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,57): warning CS0649: Field 'BallAnimation.idle' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs(13,51): warning CS0649: Field 'Coin.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,188): warning CS0649: Field 'SoundInGameManager.ballRevive' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(30,27): warning CS0169: The field 'BallMovement.boxLayer' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(17,52): warning CS0649: Field 'HeartItem.skeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(16,66): warning CS0649: Field 'MagnetItem.triggerAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(15,44): warning CS0649: Field 'BallMovement.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(22,45): warning CS0649: Field 'GamePlayController.magnetIcon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(12,45): warning CS0649: Field 'Gate.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(27,23): warning CS0649: Field 'BrokenPlatform.sprite' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(11,40): warning CS0649: Field 'BallAttack.pauseDuration' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\CheckPoint.cs(11,45): warning CS0649: Field 'CheckPoint.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(40,45): warning CS0649: Field 'BallMovement.landingEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\FollowCharacter.cs(8,44): warning CS0649: Field 'FollowCharacter.followTransform' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(26,27): warning CS0649: Field 'BallMovement.groundLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,75): warning CS0649: Field 'SoundInGameManager.ballDie' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(32,27): warning CS0649: Field 'BallMovement.groundCheckPoint' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(38,45): warning CS0649: Field 'GamePlayController.bossGroup' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,84): warning CS0649: Field 'SoundInGameManager.ballCollectCoin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(39,40): warning CS0649: Field 'GamePlayController.bossHp' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(34,45): warning CS0649: Field 'GamePlayController.hpPrefabs' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(18,45): warning CS0649: Field 'BallHealth.damageEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(17,42): warning CS0649: Field 'BallHealth.damageForce' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(16,53): warning CS0649: Field 'HeartItem.container' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(15,52): warning CS0649: Field 'MagnetItem.skeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,27): warning CS0649: Field 'SoundInGameManager.ballTrySkin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(22,44): warning CS0649: Field 'TrySkinItem.stay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(14,63): warning CS0649: Field 'MagnetItem.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,35): warning CS0649: Field 'BallMovement.acceleration' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(21,50): warning CS0649: Field 'HeartItem.move' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs(9,58): warning CS0649: Field 'ObjectCollision.collisionEnter2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(21,44): warning CS0649: Field 'Cage.triggerLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(17,57): warning CS0649: Field 'SoundManager.popupOpenSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,133): warning CS0649: Field 'SoundInGameManager.ballCollectMagnet' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(39,23): warning CS0169: The field 'BallMovement.forcePushBox' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(16,45): warning CS0169: The field 'HeartItem.adsIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(24,27): warning CS0649: Field 'SoundInGameManager.cageBreakSound' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(36,56): warning CS0649: Field 'BallMovement.jumpBufferTime' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(18,66): warning CS0649: Field 'HeartItem.triggerAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMagnetic.cs(8,54): warning CS0649: Field 'BallMagnetic.magnetEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(30,50): warning CS0649: Field 'GamePlayController.starList' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Truongtv\SoundManager\SoundManager.cs(15,38): warning CS0649: Field 'SoundManager.sfxPrefab' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Star.cs(11,51): warning CS0649: Field 'Star.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs(9,101): warning CS0649: Field 'ObjectCollision.collisionExit2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(14,59): warning CS0649: Field 'BallAnimation.mix' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(33,46): warning CS0649: Field 'GamePlayController.hpList' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(27,48): warning CS0649: Field 'GamePlayController.coinValuePrefab' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Coin.cs(13,45): warning CS0649: Field 'Coin.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs(9,57): warning CS0649: Field 'ObjectTrigger.triggerEnter2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,151): warning CS0649: Field 'SoundInGameManager.ballWin' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectCollision.cs(9,80): warning CS0649: Field 'ObjectCollision.collisionStay2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(16,63): warning CS0649: Field 'HeartItem.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(11,54): warning CS0649: Field 'BallAttack.timeScale' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CustomButton.cs(12,44): warning CS0649: Field 'CustomButton.targetGraphic' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(19,45): warning CS0649: Field 'HeartItem.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,116): warning CS0649: Field 'SoundInGameManager.ballCollectHeart' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,74): warning CS0649: Field 'BallAnimation.drowning' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Building\StartLevel.cs(9,50): warning CS0169: The field 'StartLevel.levelText' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(21,46): warning CS0649: Field 'TrySkinItem.audio' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(16,28): warning CS0649: Field 'BrokenPlatform.breakEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(18,63): warning CS0649: Field 'TrySkinItem.effect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(22,27): warning CS0649: Field 'SoundInGameManager.spring' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\BrokenPlatform.cs(11,19): warning CS0649: Field 'BrokenPlatform.respawnDelay' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(18,23): warning CS0649: Field 'BallMovement.jumpForce' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(14,63): warning CS0649: Field 'BallMovement.deccelTime' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(19,44): warning CS0649: Field 'MagnetItem.stay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(15,38): warning CS0649: Field 'BallHealth.maxHp' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(21,23): warning CS0649: Field 'BallMovement.gravityScale' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(18,52): warning CS0649: Field 'Cage.cageSkeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Damage\DamageToBall.cs(13,38): warning CS0649: Field 'DamageToBall.damage' is never assigned to, and will always have its default value 0 [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(22,50): warning CS0649: Field 'TrySkinItem.move' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(41,50): warning CS0649: Field 'GamePlayController.bossSkeleton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(13,42): warning CS0649: Field 'BallAttack.attackForce' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Star.cs(11,45): warning CS0649: Field 'Star.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,159): warning CS0649: Field 'SoundInGameManager.ballExplode' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(15,49): warning CS0649: Field 'BallMovement.totalDisplay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs(9,96): warning CS0649: Field 'ObjectTrigger.triggerExit2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,40): warning CS0649: Field 'SoundInGameManager.ballLanding' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CoinValueText.cs(9,50): warning CS0649: Field 'CoinValueText.coinValueText' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\ObjectTrigger.cs(9,77): warning CS0649: Field 'ObjectTrigger.triggerStay2DEvent' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(17,61): warning CS0649: Field 'BallController.heartEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Damage\DamageToBall.cs(11,45): warning CS0649: Field 'DamageToBall.damageType' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(20,46): warning CS0649: Field 'HeartItem.audio' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,90): warning CS0649: Field 'BallAnimation.smile' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(19,41): warning CS0649: Field 'TrySkinItem._trySkinName' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,53): warning CS0649: Field 'SoundInGameManager.ballHurt' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(17,41): warning CS0649: Field 'Cage.trySkinName' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(11,45): warning CS0649: Field 'Gate.gateLight' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(28,27): warning CS0649: Field 'BallMovement.wallLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(15,33): warning CS0649: Field 'SoundInGameManager.bossFight' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(18,46): warning CS0649: Field 'MagnetItem.audio' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMovement.cs(40,60): warning CS0649: Field 'BallMovement.moveEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\Controller\GamePlayController.cs(37,41): warning CS0649: Field 'GamePlayController.pauseButton' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(16,57): warning CS0649: Field 'Cage.startAnimation' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\UIController\CoinValueText.cs(10,49): warning CS0649: Field 'CoinValueText.curve' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(18,45): warning CS0169: The field 'TrySkinItem.adsIcon' is never used [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAnimation.cs(13,83): warning CS0649: Field 'BallAnimation.revive' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(12,47): warning CS0649: Field 'BallController.magnetic' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(15,29): warning CS0649: Field 'SoundInGameManager.bgm' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallAttack.cs(12,44): warning CS0649: Field 'BallAttack.attackLayer' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallController.cs(14,45): warning CS0649: Field 'BallController.health' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(20,45): warning CS0649: Field 'Cage.collider' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\Sound\SoundInGameManager.cs(17,63): warning CS0649: Field 'SoundInGameManager.ballAttack' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\TrySkinItem.cs(16,44): warning CS0649: Field 'TrySkinItem.icon' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\HeartItem.cs(21,44): warning CS0649: Field 'HeartItem.stay' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Platform\Gate.cs(10,44): warning CS0649: Field 'Gate.target' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\FollowCharacter.cs(9,42): warning CS0649: Field 'FollowCharacter.offset' is never assigned to, and will always have its default value [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\Cage.cs(15,52): warning CS0649: Field 'Cage.ballImprisoned' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallHealth.cs(18,63): warning CS0649: Field 'BallHealth.dieEffect' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\CharacterController\BallMagnetic.cs(8,45): warning CS0649: Field 'BallMagnetic.magnetic' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\TeamOne\BallPlayable\Assets\Projects\Scripts\GamePlay\Item\MagnetItem.cs(16,56): warning CS0649: Field 'MagnetItem.idleAnim' is never assigned to, and will always have its default value null [D:\TeamOne\BallPlayable\LUNA\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    161 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:12.19
+
+Source code compiled successfully!
+report@code:build 12425.46
+report@diagnostics:verify 0.30
+report@diagnostics:upload 2107.04
+report@code:stage 7794.79
+[ Stage3 ] Code compiled and bundled successfully.
+report@package:stage 1307.20
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.17

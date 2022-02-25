@@ -1,0 +1,89 @@
+if compress && compress.enabled
+    script.
+        function _base122ToArrayBuffer( strData ) {
+            const kIllegals = [ 0, 10, 13, 34, 38, 92 ];
+            const kShortened = 0b111;
+            const decoded = new Uint8Array( 1.75 * strData.length | 0 );
+            let decodedIndex = 0;
+            let curByte = 0;
+            let bitOfByte = 0;
+            function push7( byte ) {
+                byte <<= 1;
+                curByte |= ( byte >>> bitOfByte );
+                bitOfByte += 7;
+                if ( bitOfByte >= 8 ) {
+                    decoded[ decodedIndex++ ] = curByte;
+                    bitOfByte -= 8;
+                    curByte = ( byte << ( 7 - bitOfByte ) ) & 255;
+                }
+            }
+
+            for ( let i = 0; i < strData.length; i++ ) {
+                const c = strData.charCodeAt( i );
+                if ( c > 127 ) {
+                    const illegalIndex = ( c >>> 8 ) & 7;
+                    if ( illegalIndex !== kShortened ) {
+                        push7( kIllegals[ illegalIndex ] );
+                    }
+                    push7( c & 127 );
+                } else {
+                    push7( c );
+                }
+            }
+
+            return new Uint8Array( decoded.buffer, 0, decodedIndex );
+        }
+
+        function _base64ToArrayBuffer( base64 ) {
+            var binary_string = window.atob( base64 );
+            var len = binary_string.length;
+            var bytes = new Uint8Array( len );
+            for ( var i = 0; i < len; i++ ) {
+                bytes[ i ] = binary_string.charCodeAt( i );
+            }
+            return bytes;
+        }
+
+        const decompress = ( function( asset, isBase122 ) {
+            console.count("decompress");
+            if ( isBase122 ) {
+                return unbrotli( _base122ToArrayBuffer( asset ) );
+            } else {
+                return unbrotli( _base64ToArrayBuffer( asset ) );
+            }
+        } );
+
+        window.lunaStartup.measuredTime.decompressArrayBuffer = 0;
+        const decompressArrayBuffer = ( function( asset, isBase122 ) {
+            return new Promise( function( resolve, reject ) {
+                const start = window.perfNow();
+                const result = decompress( asset, isBase122 ).buffer;
+                const end = window.perfNow();
+                window.lunaStartup.measuredTime.decompressArrayBuffer += end - start;
+                resolve( result );
+            } );
+        } );
+
+        window.lunaStartup.measuredTime.decompressString = 0;
+        const decompressString = ( function( asset, isBase122 ) {
+            return new Promise( function( resolve, reject ) {
+                const start = window.perfNow();
+                const result = new TextDecoder( 'utf-8' ).decode( decompress( asset, isBase122 ) );
+                const end = window.perfNow();
+                window.lunaStartup.measuredTime.decompressString += end - start;
+                resolve( result );
+            } );
+        } );
+
+        window.addEventListener( 'DOMContentLoaded', function() {
+            Promise.all( window._compressedAssets ).then( function() {
+                window.dispatchEvent( new Event( 'luna:build' ) );
+            } );
+        } );
+
+
+else
+    script.
+        window.addEventListener( 'DOMContentLoaded', function() {
+            window.dispatchEvent( new Event( 'luna:build' ) );
+        } );

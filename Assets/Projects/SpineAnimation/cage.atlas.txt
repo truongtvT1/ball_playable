@@ -1,0 +1,90 @@
+
+cage.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom
+  rotate: false
+  xy: 2, 1708
+  size: 1190, 320
+  orig: 1194, 324
+  offset: 2, 2
+  index: -1
+broben_glass1
+  rotate: false
+  xy: 1659, 394
+  size: 369, 495
+  orig: 372, 497
+  offset: 1, 1
+  index: -1
+broben_glass2
+  rotate: false
+  xy: 1063, 556
+  size: 594, 333
+  orig: 597, 335
+  offset: 1, 1
+  index: -1
+broben_glass3
+  rotate: false
+  xy: 1338, 259
+  size: 239, 295
+  orig: 241, 297
+  offset: 1, 1
+  index: -1
+broben_glass4
+  rotate: false
+  xy: 1063, 1004
+  size: 423, 520
+  orig: 425, 522
+  offset: 1, 1
+  index: -1
+broben_glass5
+  rotate: false
+  xy: 1579, 157
+  size: 351, 235
+  orig: 353, 237
+  offset: 1, 1
+  index: -1
+broben_glass6
+  rotate: true
+  xy: 2, 217
+  size: 404, 417
+  orig: 406, 419
+  offset: 1, 1
+  index: -1
+broben_glass7
+  rotate: true
+  xy: 1194, 1526
+  size: 502, 448
+  orig: 505, 450
+  offset: 1, 1
+  index: -1
+broben_glass8
+  rotate: false
+  xy: 421, 371
+  size: 580, 250
+  orig: 583, 253
+  offset: 1, 2
+  index: -1
+glass
+  rotate: false
+  xy: 2, 623
+  size: 1059, 901
+  orig: 1061, 903
+  offset: 1, 1
+  index: -1
+pipe
+  rotate: true
+  xy: 1003, 224
+  size: 330, 333
+  orig: 332, 335
+  offset: 1, 1
+  index: -1
+top
+  rotate: true
+  xy: 1644, 891
+  size: 1137, 253
+  orig: 1139, 257
+  offset: 1, 2
+  index: -1

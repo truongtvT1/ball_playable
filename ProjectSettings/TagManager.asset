@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BallWeapon
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - Ground
+  - Item
+  - 
+  - Magnet
+  - CharacterHealth
+  - DamageCharacter
+  - DamageEnemy
+  - Enemy
+  - EnemyHealth
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Currency
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 3252098581
+    locked: 0
+  - name: Currency
+    uniqueID: 2418362963
+    locked: 0
+  - name: Enemy
+    uniqueID: 1237639771
+    locked: 0
+  - name: Character
+    uniqueID: 2398183857
+    locked: 0
+  - name: Ground
+    uniqueID: 2763374811
+    locked: 0
+  - name: UI
+    uniqueID: 4212823905
+    locked: 0
+  - name: Popup
+    uniqueID: 944439699
+    locked: 0
+  - name: Notification
+    uniqueID: 2846617689
+    locked: 0
+  - name: Loading
+    uniqueID: 2663464257
+    locked: 0

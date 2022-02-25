@@ -1,0 +1,17 @@
+script.
+    const _decode122Promises = [];
+    for ( const element of document.querySelectorAll( '[data-src122]' ) ) {
+        const dataset = element.dataset;
+        const buffer = _base122ToArrayBuffer( dataset[ 'src122' ] );
+        const blob = new Blob( [ buffer ], { type: dataset[ 'mime' ] } );
+        delete dataset[ 'src122' ];
+        delete dataset[ 'mime' ];
+        element.src = URL.createObjectURL( blob );
+        if ( element instanceof HTMLImageElement && !element.complete ) {
+            // Videos does have a "is loaded" check in engine so we don't need to wait for them
+            _decode122Promises.push( new Promise( ( resolve ) => {
+                element.onload = resolve;
+            } ) );
+        }
+    }
+    window._decode122Promise = Promise.all( _decode122Promises );

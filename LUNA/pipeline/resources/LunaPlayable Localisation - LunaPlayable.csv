@@ -1,0 +1,626 @@
+Table,en-UK,ru-RU,zh-CN
+Popup_PermissionsFailed_Title,Permissions Failed,Ошибка в правах доступа,权限失败
+Popup_PermissionsFailed_Description,"Sorry you don’t seem to have the correct permission for this action, please visit your account settings or contact your company admin.","К сожалению у вас нет разрешения на это действие. Пожалуйста, посетите настройки учетной записи или обратитесь к администратору компании.",抱歉，您似乎没有此操作的恰当权限，请访问您的账户设置或联系您的公司管理员。
+Popup_PermissionsFailed_Ok,Account,Аккаунт,账户
+Popup_PermissionsFailed_Cancel,Cancel,Отмена,取消
+,,,
+Popup_MsbuildWarning_Title,MSBuild version,MSBuild версия,MSBuild 版本
+Popup_MsbuildWarning_Description,MSBuild 15 or higher is required. Please make sure you have a proper path to MSBuild binary configured in Luna UI.,"Требуется MSBuild версии 15 или выше. Пожалуйста, убедитесь, что у вас указан правильный путь к MSBuild.exe в окне Luna Playable.",需要 MSBuild 15 或更高版本。请确保您在 Luna UI 中配置了正确的 MSBuild 二进制文件路径。
+Popup_MsbuildWarning_Ok,Open,Открыть,打开
+Popup_MsbuildWarning_Cancel,Cancel,Отмена,取消
+,,,
+Popup_MsbuildError_Title,MSBuild failed,Ошибка MSBuild,MSBuild 失败
+Popup_MsbuildError_Description,MSBuild failed to be invoked. Please make sure you have a proper path to MSBuild binary configured in Luna UI.,"Не удалось вызвать MSBuild. Пожалуйста, убедитесь, что у вас указан правильный путь к MSBuild.exe в окне Luna Playable.",无法调用 MSBuild。请确保您有在 Luna UI 中配置的 MSBuild 二进制文件的恰当路径。
+Popup_MsbuildError_Ok,Open,Открыть,打开
+Popup_MsbuildError_Cancel,Cancel,Отмена,取消
+,,,
+Popup_LoginSSO_Title,Cannot sign in to Playground,Не получается войти в Playground,无法登录 Playground
+Popup_LoginSSO_Description,Please log in with your Playground login and password.,"Пожалуйста, войдите используя ваш Playground логин и пароль.",请使用您的 Playground 账户和密码登录。
+Popup_LoginSSO_DescriptionNetwork,Please ensure you have a network connection.,"Пожалуйста, убедитесь, что у вас есть подключение к сети.",请确保您有网络连接。
+Popup_LoginSSO_Ok,Open,Открыть,打开
+Popup_LoginSSO_Cancel,Cancel,Отмена,取消
+,,,
+Popup_PackageBundle_Title,Package bundling failed,Ошибка в сборке пакетов,包捆绑失败
+Popup_PackageBundle_Description,"Package failed to bundle. Please check the luna.log file, or review the documentation.","Пакет не удалось собрать. Пожалуйста, проверьте luna.log файл или ознакомьтесь с документацией.",包捆绑失败。请检查 luna.log 文件，或查看文档。
+Popup_PackageBundle_Ok,Show Log,Показать логи,显示日志
+Popup_PackageBundle_Cancel,Cancel,Отмена,取消
+Popup_PackageBundle_Alt,Documentation,Документация,文档
+,,,
+Popup_PackageUpload_Title,Upload failed,Загрузка не удалась,上传失败
+Popup_PackageUpload_Description,"Please try building playground build manually and upload it via Web UI. If the issue persists, please contact support.","Пожалуйста, пересоберите проект под платформу playground и загрузите его с помощью веб-интерфейса. Если проблема не будет устранена, пожалуйста, обратитесь в службу поддержки.",请尝试手动构建 Playground，并通过 Web UI 上传。如果问题仍然存在，请联系支持人员。
+Popup_PackageUpload_Ok,Open,Открыть,打开
+Popup_PackageUpload_Cancel,Cancel,Отмена,取消
+,,,
+Popup_UnknownError_Title,Unknown error,Неизвестная ошибка,未知错误
+Popup_UnknownError_Description,"Build process has exited with an Unknown Error. Please check the luna.log file, or review the documentation.","Процесс сборки завершился с неизвестной ошибкой. Пожалуйста, проверьте luna.log файл или ознакомьтесь с документацией.",构建过程已退出，出现未知错误。请检查 luna.log 文件，或查看文档。
+Popup_UnknownError_Ok,Show Log,Показать логи,显示日志
+Popup_UnknownError_Cancel,Cancel,Отмена,取消
+Popup_UnknownError_Alt,Documentation,Документация,文档
+,,,
+Popup_DevelopBuildFinished_Title,Build Finished,Сборка завершена,构建完成
+Popup_DevelopBuildFinished_Description,Would you like to open the playable in the browser?,Хотите открыть проект в браузере?,您想在浏览器中打开可试玩广告吗？
+Popup_DevelopBuildFinished_Ok,Open in browser,Открыть в браузере,在浏览器中打开
+Popup_DevelopBuildFinished_Cancel,Cancel,Отмена,取消
+Popup_DevelopBuildFinished_Alt,Open build folder,Открыть папку с билдом,打开构建文件夹
+,,,
+Popup_AssetsProcess_Title,Assets processing failed,Ошибка пост-обработки ассетов,资源处理失败
+Popup_AssetsProcess_Description,"Assets failed to be processed. Please check the luna.log file, or review the documentation.","Ассеты не удалось обработать. Пожалуйста, проверьте luna.log файл или ознакомьтесь с документацией.",资源处理失败请检查 luna.log 文件，或查看文档。
+Popup_AssetsProcess_Ok,Show Log,Показать логи,显示日志
+Popup_AssetsProcess_Cancel,Cancel,Отмена,取消
+Popup_AssetsProcess_Alt,Documentation,Документация,文档
+,,,
+Popup_EngineCompilation_Title,Engine compilation failed,Компиляция движка не удалась,引擎编译失败
+Popup_EngineCompilation_Description,Engine failed to compile. Please fix all errors and try to rebuild.,"Движок не удалось скомпилировать. Пожалуйста, исправьте все ошибки и попробуйте пересобрать билд.",引擎编译失败。请修复所有错误，然后尝试重建。
+Popup_EngineCompilation_Ok,Show Report,Показать отчет,显示报告
+Popup_EngineCompilation_Cancel,Cancel,Отмена,取消
+Popup_EngineCompilation_Alt,Documentation,Документация,文档
+,,,
+Popup_ScenePath_Title,Package failed to bundle,Пакет не удалось собрать,包捆绑失败
+Popup_ScenePath_Description,Startup scene does not set or not exist. Please check Startup scene option to fix this error.,"Стартовая сцена не установлена ​​или не существует. Пожалуйста, проверьте стартовый вариант сцены, чтобы исправить эту ошибку.",启动场景未设置或不存在。请检查启动场景选项以修复此错误。
+Popup_ScenePath_Ok,Open,Открыть,打开
+Popup_ScenePath_Cancel,Cancel,Отмена,取消
+,,,
+Popup_UnityBinError_Title,Unity binary error,Ошибка исполняемого файла Unity,Unity 二进制错误
+Popup_UnityBinError_Description,Failed to build luna with unity binaries. Try setting 'Use MSBuild' under 'Advanced settings' and specifying a path to MSBuild binary,Не удалось построить Luna Playable. Попробуйте установить «Use MSBuild» в разделе «Дополнительные настройки» и указать путь к  двоичному файлу MSBuild ,未能用 Unity 二进制文件构建 luna。尝试在“Advanced settings（高级设置）”下设置“Use MSBuild（使用 MSBuild）”，并指定 MSBuild 二进制路径
+Popup_UnityBinError_Ok,Open,Открыть,打开
+Popup_UnityBinError_Cancel,Cancel,Отмена,取消
+,,,
+Popup_AssetsBundle_Title,Assets bundling failed,Сборка ассетов не удалась,资源捆绑失败
+Popup_AssetsBundle_Description,"Assets failed to bundle. Please check the luna.log file, or review the documentation.","Ассеты не удалось собрать. Пожалуйста, проверьте luna.log файл или ознакомьтесь с документацией.",资源捆绑失败。请检查 luna.log 文件，或查看文档。
+Popup_AssetsBundle_Ok,Show Log,Показать логи,显示日志
+Popup_AssetsBundle_Cancel,Cancel,Отмена,取消
+Popup_AssetsBundle_Alt,Documentation,Документация,文档
+,,,
+Popup_AssetsExport_Title,Assets exporting failed,Экспорт ассетов не удался,资源导出失败
+Popup_AssetsExport_Description,Assets failed to be exported properly. Please check Expert console and fix errors.,"Ассеты не удалось экспортировать должным образом. Пожалуйста, проверьте Эксперт консоль и исправьте ошибки.",资源未能正确导出。请检查 Expert 控制台并修复错误。
+Popup_AssetsExport_Ok,Open,Открыть,打开
+Popup_AssetsExport_Cancel,Cancel,Отмена,取消
+,,,
+Popup_Authentication_Title,Authentication Failed,Ошибка аутентификации,身份验证失败
+Popup_Authentication_Description,"We were unable to authenticate you, please sign in again","Мы не смогли проверить вашу аутентификацию, пожалуйста, войдите в систему снова",我们无法验证您的身份，请重新登录
+Popup_Authentication_DescriptionNetwork,"We were unable to authenticate you, please ensure you have a network connection","Мы не смогли проверить вашу аутентификацию, пожалуйста, убедитесь, что у вас есть подключение к сети",我们无法验证您的身份，请确保您有网络连接
+Popup_Authentication_Ok,Okay,Окей,好的
+Popup_Authentication_Cancel,Close,Закрыть,关闭
+,,,
+Popup_Balance_Title,Plugin access denied,Доступ к плагину отклонен,插件禁止访问
+Popup_Balance_Description,"Sorry, your current plan does not provide access to the Luna Playable plugin. Please reach out to support@lunalabs.io if you have any questions","Ваш текущий план не предоставляет доступа к Luna Playable. Пожалуйста, если есть вопросы, свяжитесь с поддержкой support@lunalabs.io",抱歉，您现在的计划并未启用 Luna Playable 插件。如有疑问请联系 support@lunalabs.io。
+Popup_Balance_Ok,Okay,Окей,好的
+Popup_Balance_Cancel,Close,Закрыть,关闭
+,,,
+Popup_CancelledExport_Title,Build Cancelled,Сборка отменена,取消构建
+Popup_CancelledExport_Description,The build was stopped early,Сборка была остановлена ​до окончания,建造已提前停止
+Popup_CancelledExport_Ok,Build Settings,Настройки сборки,构建设置
+Popup_CancelledExport_Cancel,Cancel,Отмена,取消
+,,,
+Popup_ShouldCancelBuild_Title,Cancel Build,Отменить сборку,取消构建
+Popup_ShouldCancelBuild_Description,Would you like to cancel the build?,Хотите отменить сборку?,您是否要取消构建？
+Popup_ShouldCancelBuild_Ok,Yes,Да,是
+Popup_ShouldCancelBuild_Cancel,No,Нет,否
+,,,
+Popup_CodeBundle_Title,Code compilation failed,Компиляция кода не удалась,代码编译失败
+Popup_CodeBundle_Description,Code failed to compile. Please fix all errors in Solution and try to rebuild.,Код не удалось скомпилировать. Исправьте все ошибки в решении и попробуйте пересобрать билд.,代码编译失败。请修复解决方案中的所有错误，然后尝试重建。
+Popup_CodeBundle_Ok,Open,Открыть,打开
+Popup_CodeBundle_Cancel,Cancel,Отмена,取消
+,,,
+Popup_FileAlreadyExists_Title,Such file already exists!,Такой файл уже существует!,该文件已存在!
+Popup_FileAlreadyExists_Description,File at: {0} already exists.Overwrite it?,Файл в {0} уже существует. Перезаписать его?,文件位置：{0} 已存在。是否覆盖？
+Popup_FileAlreadyExists_Yes,Yes,Да,是
+Popup_FileAlreadyExists_No,No,Нет,否
+,,,
+Popup_FileOutOfProject_Title,This file is outside of current project directory!,Этот файл находится вне проекта,此文件在当前项目目录外！
+Popup_FileOutOfProject_Description,"Files from not project directory will not be included in the project build and won't be loaded. Please, move it to: {0} directory","Файл не из папки проекта не может быть и включен и загружен. Пожалуйста, переместите его в {0} папку",非项目目录中的文件将不会包含在项目构建中，也不会加载。请将其移至：{0} 目录
+Popup_FileOutOfProject_Copy,Copy file to project,Скопировать файл в проект,将文件复制到项目
+Popup_FileOutOfProject_Cancel,Cancel,Отмена,取消
+,,,
+Popup_Login_Title,Cannot sign in to Playground,Не удается войти в Playground,无法登录 Playground
+Popup_Login_TitleLoginFailed,Sign in failed,Ошибка входа,登录失败
+Popup_Login_Description,Please check Playground email and password.,"Пожалуйста, проверьте электронную почту и пароль для входа в Playground.",请查看 Playground 电子邮件和密码。
+Popup_Login_DescriptionNetwork,Please ensure you have a network connection.,"Пожалуйста, убедитесь, что у вас есть подключение к сети.",请确保您有网络连接。
+Popup_Login_DescriptionLoginWithGoogle,Your company has disabled sign in with email and password. Please sign in with your Google account.,"Для вашей компании отключена возможность войти с использованием электронной почты и пароля. Пожалуйста, войдите используя свой аккаунт Google.",您的公司已禁止使用电子邮件和密码登录。请使用您的 Google 账户登录。
+Popup_Login_Ok,Okay,Окей,好的
+Popup_Login_Cancel,Cancel,Отмена,取消
+,,,
+Popup_NotAcceptable_Title,"Sorry, you've reached plan limitations","К сожалению, вы достигли лимита своего плана",抱歉，您已达到了计划上限
+Popup_NotAcceptable_Description,You've reached the maximum number of apps you can upload to Playground within your company’s plan. Please visit Luna Playground for more information.,"Вы достигли максимального количества приложений, которые вы можете загрузить на Playground в рамках вашей компании. Пожалуйста, посетите Luna Playground для получения дополнительной информации.",您已经达到公司计划中可以上传到 Playground 的应用程序的最大数量。请访问 Luna Playground 了解更多信息。
+Popup_NotAcceptable_Ok,Open,Открыть,打开
+Popup_NotAcceptable_Cancel,Cancel,Отмена,取消
+,,,
+Popup_PackageUploaded_Title,Package uploaded,Пакет загружен,上传的包
+Popup_PackageUploaded_Description,Package has been uploaded to Luna Playground,Пакет был загружен на Luna Playground,包已上传到 Luna Playground
+Popup_PackageUploaded_Ok,Go to Playground,Перейти в Playground,前往 Playground
+Popup_PackageUploaded_Cancel,Cancel,Отмена,取消
+,,,
+Popup_UnityBinPath_Title,Unity binary not found,Ошибка исполняемого файла Unity,找不到 Unity 二进制文件
+Popup_UnityBinPath_Description,Failed to find an expected unity binary. Try setting 'Use MSBuild' under 'Advanced settings' and specifying a path to MSBuild binary,Не удалось построить Luna Playable. Попробуйте установить «Use MSBuild» в разделе «Дополнительные настройки» и указать путь к  двоичному файлу MSBuild ,"未能找到预期的 Unity 二进制文件。尝试在 ""高级"" 下设置 ""使用 MSBuild""，并指定 MSBuild 二进制路径"
+Popup_UnityBinPath_Ok,Open,Открыть,打开
+Popup_UnityBinPath_Cancel,Cancel,Отмена,取消
+,,,
+Popup_OptimalSettings_Title,Set optimal settings,Применить оптимальные настройки,设置优化设定
+Popup_OptimalSettings_Description,It changes default parameters to optimal and enables some options in 'Advanced settings'. For more detailed information please check documentation,"Установить настройкам по умолчанию оптимальные значения и включить некоторые настройки в «Дополнительных настройках». Для более детальной информации, пожалуйста, ознакомьтесь с документацией",它会将默认参数调整至最优设定并启用 '高级设置' 中的一些选项。详细信息请参考说明。
+Popup_OptimalSettings_Ok,Okay,Окей,好的
+Popup_OptimalSettings_Cancel,Cancel,Отмена,取消
+Popup_OptimalSettings_Docs,Open documentation,Открыть документацию,打开文档
+,,,
+Popup_AssetsExporting_Title,Asset export,Экспорт ассетов,资源导出
+Popup_AssetsExporting_Description,Collecting assets...,Сбор ассетов...,正在收集资源...
+,,,
+HelpBox_InstallLink_Message,You have incorrect {0} install link. Please change it,"У Вас указана неверная {0} ссылка на скачивание игры. Пожалуйста, исправьте ее",{0} 安装链接不正确。请进行更改
+HelpBox_InstallLinks_Message,You have incorrect iOS and Android install links. Please change them,"У Вас указаны неверные IOS и Android ссылки на скачивание игры. Пожалуйста, исправьте их",iOS 和 Android 安装链接不正确。请进行更改
+,,,
+LunaToolbar_Building,Building...,Сборка...,构建中...
+LunaToolbar_BuildForDevelop,Build luna for develop,Собрать Develop билд,构建开发用 Luna
+,,,
+LunaProjectBrowser_ShowIncludesExcludes,Show Luna included and excluded files,Показать включенные и исключенные из сборки ассеты,显示 Luna 包含文件和排除文件
+LunaProjectBrowser_HideIncludesExcludes,Hide Luna included and excluded files,Спрятать показ включенных и исключенных из сборки ассетов,隐藏 Luna 包含文件和排除文件
+LunaProjectBrowser_ForceIncludedFile,Force included in Luna,Принудительно включить в сборку,强制在 Luna 中包含
+LunaProjectBrowser_ForceExcludedFile,Force excluded from Luna,Принудительно исключить из сборки,强制从 Luna 中排除
+LunaProjectBrowser_CSIncludedFile,By default all scripts are included in Luna,По умолчанию все скрипты включены в сборку,默认情况下，所有脚本均在 Luna 中包含
+LunaProjectBrowser_CSExcludedFile,Force excluded from Luna,Принудительно исключено из сборки,强制从 Luna 中排除
+LunaProjectBrowser_ResourcesIncludedFile,All resources files are included in Luna,Все файлы из папки Resources включены в сборку,所有资源文件均在 Luna 中包含
+LunaProjectBrowser_ResourcesExcludedFile,By default resources files are excluded from Luna,По умолчанию все файлы из папки Resources исключены из сборки,默认情况下，会将资源文件从 Luna 中排除
+LunaProjectBrowser_StreamingAssetsIncludedFile,All streaming assets are included in Luna,Все Streaming Assets включены в сборку,所有流媒体资源均在 Luna 中包含
+LunaProjectBrowser_StreamingAssetsExcludedFile,By default streaming assets are excluded from Luna,По умолчанию Streaming Assets исключены из сборки,默认情况下，流媒体资源不在 Luna 中包含
+LunaProjectBrowser_NotIncludedInBuild,Not included in the last Luna build,Не включено в последнюю сборку,不在上一次 Luna 构建中包含
+LunaProjectBrowser_IncludedInBuild,Included in the last Luna build,Включено в последнюю сборку,在上一次 Luna 构建中包含
+LunaProjectBrowser_ExcludedInBuild,Referenced but not included in the last Luna build,"Ссылается, но не включено в последнюю сборку",已引用，但未在上一次 Luna 构建中包含
+LunaProjectBrowser_ForceInclude,Force include,Принудительно включить,强制包含
+LunaProjectBrowser_ForceExclude,Force exclude,Принудительно исключить,强制排除
+LunaProjectBrowser_AddToBuildScenes,Add to build scenes,Добавить к сценам,添加到构建场景
+LunaProjectBrowser_SetAsStartupScene,Set as startup scene,Сделать стартовой,设置为启动场景
+,,,
+EditorTab_AdNetworkSettings_GlobalSettingsTitle,Global settings,Общие настройки,全局设置
+EditorTab_AdNetworkSettings_AppName,Application Name,Имя приложения,应用程序名称
+EditorTab_AdNetworkSettings_IosLink,iOS install game link,IOS ссылка на игру,iOS 安装游戏链接
+EditorTab_AdNetworkSettings_AndroidLink,Android install game link,Android ссылка на игру,Android 安装游戏链接
+EditorTab_AdNetworkSettings_FacebookTitle,Facebook,Facebook,FaceBook
+EditorTab_AdNetworkSettings_FbAssetId,Asset ID,Asset ID,资源 ID
+EditorTab_AdNetworkSettings_FbPackageType,Package type,Тип упаковки,包类型
+EditorTab_AdNetworkSettings_IronSourceTitle,ironSource,ironSource,ironSource
+EditorTab_AdNetworkSettings_IsApiType,API type,Тип API,API 类型
+EditorTab_AdNetworkSettings_IsApiMode,API mode,Режим API,API 模式
+EditorTab_AdNetworkSettings_IsVersionCode,Version code,Код версии,版本代码
+EditorTab_AdNetworkSettings_IsAppGenre,Application Genre,Жанр приложения,应用游戏类型
+EditorTab_AdNetworkSettings_IsPackageType,Package type,Тип упаковки,包类型
+EditorTab_AdNetworkSettings_TikTokTencentTitle,TikTok & Tencent,TikTok и Tencent,TikTok（抖音）和 Tencent（腾讯）
+EditorTab_AdNetworkSettings_TttOrientation,Orientation,Ориентация,布局方向
+EditorTab_AdNetworkSettings_TikTokTitle,TikTok,TikTok,TikTok（抖音）
+EditorTab_AdNetworkSettings_TtLanguage,Supported Languages,Поддерживаемые языки,支持的语言
+,,,
+Sections_Settings_Name,Settings,Настройки,设置
+Sections_Assets_Name,Assets,Ассеты,资源
+Sections_Code_Name,Code,Код,代码
+Sections_Develop_Name,Develop,Разработка,开发
+Sections_Playground_Name,Playground,Playground,Playground
+Sections_Expert_Name,Expert,Эксперт,专家
+Sections_SizeBreakdown_Name,Size breakdown,Анализ размера,大小细分
+Sections_PluginUpdates_Name,Plugin Updates,Доступно обновление,插件更新
+Sections_BuildButton,Build {0},Собрать {0},构建 {0}
+Sections_CancelBuildButton,Cancel Build,Прервать,取消构建
+,,,
+EditorTab_Basic_Name,Basic,Основные,基本
+EditorTab_Advanced_Name,Advanced,Дополнительные,高级
+EditorTab_AdNetworkSettings_Name,Ad Network,Рекламные сети,广告网络
+EditorTab_Account_Name,Account,Аккаунт,账户
+,,,
+Basic_ScenesInBuild,Scenes in Build,Сцены в сборке,构建中的场景
+Basic_StartupScene,Startup Scene,Стартовая сцена,启动场景
+Basic_ExportType,Export type,Тип экспорта,导出类型
+Basic_ExportType_Resources,Resources,Ресурсы,Resources
+Basic_ExportType_StreamingAssets,Streaming Assets,Streaming Assets,Streaming Assets
+Basic_ProjectSettings,Project settings,Настройки проекта,项目设置
+Basic_ProjectSettings_AutoInstantiate,Auto-instantiate Prefabs,Автораспаковка префабов,自动实例化预置
+Basic_ProjectSettings_OptimiseSize,Optimise build size,Оптимизировать размер билда,优化构建大小
+,,,
+Universal_Browse,Browse,Обзор,浏览
+Universal_Cancel,Cancel,Отмена,取消
+,,,
+Advanced_GameSettings,Game settings,Настройки игры,游戏设置
+Advanced_UsePlayerPrefs,Use PlayerPrefs,Применить PlayerPrefs,使用 PlayerPrefs
+Advanced_CodeMinification,Code minification,Минификация кода,代码最简化
+Advanced_CompressResources,Compress resources,Сжатие ресурсов,压缩资源
+Advanced_DeadCodeElimination,Eliminate dead code,Исключить неиспользуемый код (DCE),清除死代码
+Advanced_GenericCheck,Additional Generic Check,Проверка C# Generic-ов,额外C#泛型检查
+Advanced_DisableAntiAliasing,Force disable Anti Aliasing,Отключить сглаживание,强制禁用抗锯齿
+Advanced_DCE_RootClasses,DCE root classes,Принудительно сохраняемые классы при DCE,DCE 根类
+Advanced_DCE_RootClasses_Tooltip,Comma separated list of fully specified class names.,"Список полностью заданных имен классов, разделенные запятой.",完全指定类名的以逗号分隔的列表。
+Advanced_Preloader,Preloader,Экран загрузки,预加载程序
+Advanced_Preloader_Active,Active,Использовать,已启用
+Advanced_Preloader_Icon,Preloader Icon,Иконка загрузки,预加载程序图标
+Advanced_Preloader_BrowseIconTitle,Choose Path to Preloader Icon,Выберите путь к иконке,选择预加载程序图标的路径
+Advanced_Preloader_Background,Preloader Background,Загрузочный фон,预加载程序背景
+Advanced_Preloader_BrowseBackgroundTitle,Choose Path to Preloader Background,Выберите путь к изображению,选择预加载程序背景的路径
+Advanced_Tools,Tools and Binaries,Инструменты сборки,工具和二进制文件
+Advanced_Tools_Msbuild,MSBuild Tools,MSBuild инструменты,MSBuild 工具
+Advanced_Tools_BrowseMsbuildTitle,Choose Path to MSBuild Tools,Выберите путь к MSBuild инструментам,选择 MSBuild 工具的路径
+,,,
+Account_Account,Account,Аккаунт,账户
+Account_SignedWithEmail,You are signed in with email {0},Вы вошли в систему с адресом электронной почты {0},您已使用电子邮箱登录 {0}
+Account_SignOut,Sign out,Выход,退出
+Account_CopyToken,Copy token,Скопировать токен,复制令牌
+,,,
+LoginForm_SignInAsking,Sign in to use Luna Playable ,"Войдите, чтобы использовать Luna Playable",登录以使用 Luna Playable
+LoginForm_Email,Email,Электронная почта,电子邮件
+LoginForm_Password,Password,Пароль,密码
+LoginForm_ForgotPassword,Forgot your password?,Забыли Ваш пароль?,忘记密码？
+LoginForm_SignIn,Sign in,Войти,登录
+LoginForm_SignInWithGoogle,Sign in with Google,Войти с помощью Google,使用 Google 账户登录
+LoginForm_SsoWaitingScreenMessage,Please sign in using the browser,"Пожалуйста, авторизуйтесь в браузере",请使用浏览器登录
+,,,
+MultiColumnTree_Name,Name,Имя,名称
+MultiColumnTree_Size,Size,Размер,尺寸
+MultiColumnElement_ExpandAll,Expand All,Расширить все,全部展开
+MultiColumnElement_CollapseAll,Collapse All,Свернуть все,全部折叠
+,,,
+Assets_AssetsIncludedExcludeTab,Assets,Ассеты,资源
+Assets_TexturesTab,Textures,Текстуры,纹理
+Assets_SoundsTab,Sounds,Звуки,音效
+Assets_FontsTab,Fonts,Шрифты,字体
+Assets_MeshesTab,Meshes,Меши,网格
+Assets_AnimationsTab,Animations,Анимации,动画
+,,,
+InclExclAssets_ForceExclude,Force-exclude Assets,Принудительно исключить ассеты,强制排除资源
+InclExclAssets_ForceInclude,Force-include Assets,Принудительно включить ассеты,强制包含资源
+,,,
+TexturesTab_DefaultSettings,Default Texture settings,Настройки текстур по умолчанию,默认纹理设置
+TexturesTab_MaxSize,Max size,Максимальный размер,最大尺寸
+TexturesTab_DimensionsSeparator,x,x,x
+TexturesTab_Pixels,pixels,пикселей,像素
+TexturesTab_Format,Format,Формат,格式
+TextureTab_TextureFormatDefault,Default,По умолчанию,默认
+TexturesTab_Quality,Quality,Качество,质量
+TexturesTab_Compression,Compression,Компрессия,压缩
+TextureTab_CompressionNone,None,Ничего,无
+TexturesTab_CustomScript,Custom script,Скрипт пользователя,自定义脚本
+TexturesTab_CustomScriptExtension,Custom script extension,Расширение скрипта,自定义脚本扩展
+TexturesTab_PerTextureSettings,Per-texture settings,Настройки текстуры,逐纹理设置
+TexturesTab_WEBPWarning,WebP requires iOS 14 or higher,WebP требуется iOS 14 или выше,WebP 需要 iOS 14 或更高版本
+TexturesTab_OverrideSettings, {0} Texture settings, {0} Настройки текстуры, {0} 纹理设置
+,,,
+SoundsTab_DefaultSoundSettings,Default Sound settings,Настройки звука по умолчанию,默认音效设置
+SoundsTab_Format,Format,Формат,格式
+SoundsTab_DefaultChannel,Default,По умолчанию,默认
+SoundsTab_Bitrate,Bitrate,Битрейт,比特率
+SoundsTab_BitrateSpeed,K,К,K
+SoundsTab_CustomScript,Custom script,Скрипт пользователя,自定义脚本
+SoundsTab_CustomScriptExtension,Custom script extension,Расширение скрипта,自定义脚本扩展
+SoundsTab_PerTextureSettings,Per-sound settings,Настройки звука,逐音效设置
+SoundsTab_Cropping,Cropping,Обрезать,剪裁
+SoundsTab_StartCroppingTime,from,с,从
+SoundsTab_EndCroppingTime,to,до,到
+SoundsTab_Play,Play,Воспроизвести,播放
+SoundsTab_Stop,Stop,Остановить,停止
+SoundTab_OverrideSettings,{0} Sound settings, {0} Настройки звука,{0} 音效设置
+,,,
+FontTab_DefaultFontSettings,Default Font settings,Настройки шрифта по умолчанию,默认字体设置
+FontTab_Alphabet,Alphabet,Алфавит,字母表
+FontTab_GlyphSize,Glyph size,Размер символа,字形大小
+FontTab_TextureSize,Texture size,Размер текстуры,纹理大小
+FontTab_DimensionsSeparator,x,x,x
+FontTab_Pixels,pixels,пикселей,像素
+FontTab_PerFontSettings,Per-font settings,Настройки шрифта,逐字体设置
+FontTab_OverrideSettings,{0} Font settings,{0} Настройки шрифта,{0} 字体设置
+,,,
+Meshes_DefaultMeshSettings,Default Mesh settings,Настройки меша по умолчанию,默认网格设置
+Meshes_PerMeshSettings,Per-mesh settings,Настройки меша,逐网格设置
+Meshes_HalfPrecision,Store mesh in Half-precision floating-point format ,Формат с плавающей точкой половинной точности,以半精度浮点格式存储网格
+Meshes_HalfPrecisionShort,Use half-precision floats,Плавающая точка половинной точности,使用半精度浮点数
+Meshes_OverrideSettings,{0} Mesh settings,{0} Настройки меша,{0} 网格设置
+,,,
+Animations_DefaultAnimationSettings,Default Animation settings,Настройки анимации по умолчанию,默认动画设置
+Animations_PerAnimationSettings,Per-animation settings,Настройки анимации,逐动画设置
+Animations_HalfPrecision,Store animation in Half-precision floating-point format ,Формат с плавающей точкой половинной точности,以半精度浮点格式存储动画
+Animations_HalfPrecisionShort,Use half-precision floats,Число половинной точности,使用半精度浮点数
+Animations_OverrideSettings,{0} Animation settings,{0} Настройки анимации,{0} 动画设置
+,,,
+Code_DiagnosticsTab,Diagnostics,Диагностика,诊断
+Code_ExclusionsTab,Exclusions,Исключения,排除
+Code_StubsTab,Stubs,Стабы,存根
+Code_ExternalSourcesTab,External Sources,Внешние источники,外部来源
+Code_ScriptingDefinesTab,Scripting Defines,Scripting Defines,脚本处理定义
+,,,
+DiagnosticsTab_DefaultMessage,"No diagnostics, hit 'Run Diagnostics'","Нет диагностики, нажмите 'Запустить диагностику'",没有诊断，点击 '运行诊断'
+DiagnosticsTab_CompilingMessage,Compiling solution...,Компиляция решения ...,正在编译解决方案...
+DiagnosticsTab_CompiledMessage,Solution compiled successfully!,Решение скомпилировалось успешно!,解决方案编译成功!
+DiagnosticsTab_GatheringMessage,Gathering compilation diagnostics...,Сбор диагностики компиляции ...,正在收集编译诊断...
+DiagnosticsTab_ErrorMessage,"Whoops, something went wrong :(","Упс, что-то пошло не так :(",糟糕，出错了:(
+DiagnosticsTab_CleanMessage,No compilation errors found,Не найдено ни одной ошибки компиляции,未发现编译错误
+DiagnosticsTab_ConsoleMessage_CategoryDuplicate,Compilation panel: Can't add error code {0} to category: '{1}' as it is already assigned to '{2}',"Панель компиляции: невозможно добавить код ошибки {0} к категории: «{1}», так как он уже назначен «{2}»",编译面板：无法在类别中添加错误代码 {0}：'{1}'，因为它已经分配给 '{2}'
+DiagnosticsTab_ConsoleMessage_WrongCategoryPath,Compilation panel: Couldn't find categories data at: {0},Панель компиляции: Не удалось найти категории данных по адресу: {0},编译面板：无法在以下位置找到类别数据：{0}
+DiagnosticsTab_GroupBy,Group by:,Группа по:,分组依据：
+DiagnosticsTab_Severity,Severity:,Критичность:,严重程度：
+,,,
+CodeSection_OpenSolution,Open Luna Solution,Открыть Luna решение,打开 Luna 解决方案
+CodeSection_CompileSolution,Compile Solution,Скомпилировать решение,编译解决方案
+CodeSection_RunDiagnostics,Run Diagnostics,Запустить диагностику,运行诊断程序
+,,,
+CodeExcludeTab_ForceExclude,Force-exclude C# files,Принудительно исключить файлы C #,强制排除 C# 文件
+,,,
+StubberTab_DeleteButtonTooltip,Remove the selected field from the list. You can't remove default fields.,Удалить выбранное поле из списка. Вы не можете удалить стандартные поля.,从列表中移除所选字段。您不能移除默认字段。
+StubberTab_GenerateButtonTooltip,Generate scripts from current nameSpace. You can specify classes or just leave the classes field empty - in this case Stubber will generate all classes. Don't forget to add the directory with original sources to list of Force Excluded C# files.,Создает скрипты из текущего пространства имен. Вы можете указать конкретные классы или оставить поле классов пустым - в этом случае Стаббер будет генерировать все классы. Не забудьте добавить оригинальные скрипты в список исключенных C# файлов.,从当前命名空间生成脚本。您可以指定类，也可将类字段留空。在这种情况下，Stubber 将生成所有类。不要忘记将带有原始来源的目录添加到强制排除的 C# 文件列表中。
+StubberTab_ThirdPartySdks,Third-party SDKs,Сторонние SDK,第三方 SDK
+StubberTab_AutomaticStubbing,Automatic Stubbing,Автоматический Стаббер,自动存根
+StubberTab_Description,"Generate stubs for libraries, plugins and SDKs that aren't supported by Luna Playable. This will exclude the library
+from your Luna build and stub all references to that library.","Сформировать стабы для библиотек, плагинов и SDK, которые не поддерживаются Luna Playable. 
+Это позволит исключить библиотеку из вашей сборки и создать стабы для всех ссылок на эту библиотеку.",为 Luna Playable 不支持的库、插件和 SDK 生成存根。该操作将从您的 Luna 构建中排除库，并对该库的所有引用进行存根。
+StubberTab_SelectSdk,Select SDKs to be stubbed,Выберите SDK для создания стабов,选择需要存根的 SDK
+StubberTab_DeleteFieldButton,Delete field,Удалить поле,删除字段
+StubberTab_CustomSdkSection,Add an SDK to be stubbed,Добавить SDK для создания стабов,添加要存根的 SDK
+StubberTab_CustomSdkName,Name of SDK,Название SDK,SDK 名称
+StubberTab_CustomSdkNamespace,Namespace,Пространство имен,命名空间
+StubberTab_CustomSdkClasses,Name of specific classes,Название классов,特定类的名称
+StubberTab_CustomSdkGenerateButton,Generate Stub,Сгенерировать стаб,生成存根
+StubberTab_SucceedMessage_Ok,Ok,Окей,好的
+StubberTab_SucceedMessage_Title,SDK stubbing succeeded,Генерация стаба прошла успешно,SDK 存根成功
+StubberTab_SucceedMessage_StubbedTypesCount,Count of stubbed types,Количество застабаных типов,存根类型数
+StubberTab_FailedMessage_Ok,Ok,Окей,好的
+StubberTab_FailedMessage_Title,Stub generation failed,Ошибка при генерации стаба,存根生成失败
+StubberTab_TypeGenerationFailed,Type generation failed,Ошибка при генерации типа,类型生成失败
+StubberTab_SDKNotFoundMessage_Ok,Ok,Окей,好的
+StubberTab_SDKNotFound,SDK not found,SDK не найдено,未找到 SDK
+StubberTab_NoneOfTypesListed,None of the listed types,Ни один из перечисленных типов,所列的类型没有
+StubberTab_WereFoundAmongNamespaces,were found among namespaces,не был найден среди пространств имен,在命名空间中被找到
+StubberTab_SDKWasNotFoundInItsDirectory,SDK was not found in its directory,SDK не был найден в своей директории,未在其目录中找到 SDK
+,,,
+StubberTree_Stub,Stub,Стаб,存根
+StubberTree_Name,Name,Имя,名称
+StubberTree_Namespace,Namespace,Пространство имен,命名空间
+StubberTree_Classes,Classes,Классы,类
+,,,
+ExternalSourceTab_CsSources,External C# sources folders,Папки с внешними C # скриптами,外部 C# 来源文件夹
+ExternalSourceTab_BrowseAbsolute,Browse for absolute path,Обзор абсолютного пути,浏览绝对路径
+ExternalSourceTab_BrowseAbsoluteHeader,Choose Path to External Sources,Выберите путь к внешним источникам,选择外部来源的路径
+ExternalSourceTab_BrowseRelative,Browse for relative path,Обзор относительного пути,浏览相对路径
+ExternalSourceTab_BrowseRelativeHeader,Choose Path to External Sources,Выберите путь к внешним источникам,选择外部来源的路径
+ExternalSourceTab_ExternalJs,External JS libraries,Внешние библиотеки JS,外部 JS 库
+ExternalSourceTab_BrowseJsHeader,Choose Path to External library,Выберите путь к внешней библиотеке,选择外部库的路径
+ScriptingDefinesTab_Defines,Scripting Defines,Scripting Defines,脚本处理定义
+,,,
+DevelopSection_OpenDirectory,Open build directory after build,Открыть папку с билдом после окончания сборки,构建后打开生成目录
+DevelopSection_Header,Develop,Разработка,开发
+DevelopSection_BuildButton,Build project,Собрать проект,构建项目
+DevelopSection_ServerSection,Server,Сервер,服务器
+DevelopSection_Server_Port,Server Port,Порт сервера,服务器端口
+DevelopSection_Server_Start,Start server,Запустить сервер,启动服务器
+DevelopSection_Server_Stop,Stop server,Остановить сервер,停止服务器
+DevelopSection_Server_OpenInBrowser,Open in browser,Открыть в браузере,在浏览器中打开
+,,,
+PlaygroundSection_Header,Playground,Playground,Playground
+PlaygroundSection_PackageId,Package Id,Идентификатор пакета,包 Id
+PlaygroundSection_ProductName,Product Name,Имя продукта,产品名称
+PlaygroundSection_BuildProject,Build project,Собрать проект,构建项目
+PlaygroundSection_BuildAndUpload,Build & upload,Собрать и загрузить,构建并上传
+,,,
+ExpertSection_Header,Expert,Эксперт,专家
+,,,
+ExpertTree_Clear,Clear,Очистить,清空
+ExpertTree_ClearOnPlay,Clear On Play,Очистить на запуске,游戏时清空
+ExpertTree_OpenDocs,Open documentation,Открыть документацию,打开文档
+,,,
+SizeBreakdownSection_Header,Per-platform size breakdown,Анализ размера сборки платформы,逐平台大小细分
+SizeBreakdownSection_BuildAndEstimateButton,Build & Estimate size,Оценка размера,构建和估算大小
+SizeBreakdownSection_CompressionHint,Code Minification disabled. We recommend to enable it in Advanced settings to decrease the final build size.,"Минификация кода отключена. Мы рекомендуем включить ее в дополнительных настройках, чтобы уменьшить конечный размер сборки.",代码最简化已禁用。我们建议在高级设置中将其启用，以降低最终构建大小。
+SizeBreakdownSection_BreakdownFailed,Size breakdown failed. Check your console window for errors and LunaTemp/luna.log,Разбивка размера не удалась. Проверьте окно консоли на наличие ошибок и LunaTemp / luna.log,大小细分失败。请检查控制台窗口和 LunaTemp/luna.log 是否报错
+SizeBreakdownSection_TotalSize,Total size,Общий размер,总大小
+SizeBreakdownSection_WEBPTextureFormat,Unity doesn't support WEBP format,Unity не поддерживает WEBP формат,Unity 不支持 WEBP 格式
+,,,
+PluginUpdatesSection_Header,Plugin updates,Обновления плагина,插件更新
+PluginUpdatesSection_Description,"You're using an outdated version of Luna Playable!
+A new version of the plugin ({0}) is available to download from Luna Playground.","Вы используете устаревшую версию Luna PLAYABLE!
+Новая версия плагина ({0}) доступна для скачивания на Luna Playground.","您正在使用旧版本的 Luna Playable!
+新版本插件可以从 Luna Playground 下载 ({0})。"
+PluginUpdatesSection_DownloadButton,Download,Скачать,下载
+,,,
+Localization_Language,Language,Язык,语言
+Localization_SystemLanguageDetected,Your system language is '{0}'. Try to apply '{1}'?,Ваш язык системы «{0}». Попробуем применить '{1}'?,您的系统语言是 '{0}'。是否尝试应用 '{1}'？
+Localization_SystemLanguageDetectedNotSupported,"Your system language is '{0}'. Sorry, we don't support it yet. Try to apply '{1}'?","Ваш язык системы «{0}». К сожалению, мы еще его не поддерживаем. Попробуем применить '{1}'?",您的系统语言是 '{0}'。抱歉，我们目前暂不支持该语言。是否尝试应用 '{1}'？
+,,,
+Expert_DeferredRendering_Title,Deferred rendering is not supported,Отложенный рендеринг не поддерживается,不支持延迟渲染
+Expert_DeferredRendering_Description,"Due to compatibility reasons, Luna is only able to use Forward rendering path. Please adjust your player settings or force camera '{0}' into Forward mode.","Luna Playable не поддерживает Deferred rendering path. Пожалуйста, измените Player Settings или переведите камеры «{0}» в режим Forward.",由于兼容性原因，Luna 只能使用正向渲染路径。请调整您的玩家设置，或强制相机 '{0}' 进入正向模式。
+Expert_HugeMesh_Title,"Big mesh usage, this might significantly increase output files size.",Большой размер меша,大网格使用，这可能会显著增加输出文件的大小。
+Expert_HugeMesh_Description,"Big mesh {0} used on {1} game object, this might significantly increase output files size and take too much memory",Тяжелый меш {0} используется на {1} игровом объекте. Рекомендуем уменьшить точность хранения информации или количество вершин,在 {1} 游戏对象上使用大网格 {0}，这可能会显著增加输出文件的大小并占用过多内存
+Expert_InvalidShaderVariant_Title,{0} has problems,Ошибка экспорта варианта шейдера {0},{0} 有问题
+Expert_InvalidShaderVariant_Description,Check shader could be compiled for gles rendering platforms (#pragma only_renderers),"Проверьте шейдер. Убедитесь, что он может быть скомпилирован под GLES rendering платформы (#pragma only_renderers)",检查是否能为 GLES 渲染平台编译着色器 (#pragma only_renderers)
+Expert_ManyMeshColliders_Title,Extensive use of mesh colliders,Частое использование меш коллайдеров,网格碰撞器的广泛使用
+Expert_ManyMeshColliders_Description,Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.,"Использование меш коллайдеров негативно влияет на производительность.
+При этом их можно заменить на примитивные коллайдеры.",网格碰撞器的使用对性能有负面影响。您可转而使用原始碰撞器。
+Expert_LinearColorSpace_Title,Linear color space is not supported,Линейное цветовое пространство не поддерживается,不支持线性色彩空间
+Expert_LinearColorSpace_Description,"Due to compatibility reasons, Luna is only able to use Gamma color space for rendering. Please adjust your player settings.","Luna Playable использует только цветовое пространство типа гамма для рендеринга. Пожалуйста, измените Player Settings.",由于兼容性原因，Luna 只能使用 Gamma 色彩空间进行渲染。请调整您的玩家设置。
+Expert_MissingShaderVariants_Title,No Luna.shader variants asset found,Коллекция шейдер вариантов не найдена,找不到 Luna.shader 着色器变体资源
+Expert_MissingShaderVariants_Description,No Assets/Luna.shader variants asset was found. This might bloat your build with excessive shader variants.,Не найдена коллекция шейдер вариантов по пути Assets/Luna.shader variants. Это может увеличить размер вашего билда из-за чрезмерных вариантов шейдеров.,找不到 Assets/Luna.shader 着色器变体资源。过量使用着色器变体可能导致您的构建大小显著增加。
+Expert_NonPotTexture_Title,"Non-repeat wrap mode used on a texture with non power-of-two dimensions, this might not be rendered correctly.","Текстура с разрешением, не кратным 2, использует non-repeat wrap mode. Она будет отображаться некорректно.",在非二维幂的纹理上使用非重复循环模式，可能会导致无法正确渲染。
+Expert_NonPotTexture_Description,"Non-repeat wrap mode used on '{0}' texture at '{1}' with non power-of-two dimensions, this might not be rendered correctly.","Игровой объект «{1}» содержит текстуру «{0}» с разрешением, не кратным 2, которая использует non-repeat wrap mode. Она будет отображаться некорректно.",在 '{1}' 非二维幂的 '{0}' 纹理上使用的非重复换行模式，可能无法正确渲染。
+Expert_NullComponent_Title,There are missing components on {0}.,Есть недостающие компоненты на {0}.,{0} 上缺少组件。
+Expert_NullComponent_Description,There are missing components on {0}.,Есть недостающие компоненты на {0}.,{0} 上缺少组件。
+Expert_PlaygroundAssetValue_Title,Playground Asset has no default value,Playground ассеты не имеют значения по умолчанию,Playground 资源没有默认值
+Expert_PlaygroundAssetValue_Description,[LunaPlaygroundAsset] Attribute added onto '{0}' field of '{1}' class must have a default value to appear in Playground.,"Поле, помеченное [LunaPlaygroundAsset] атрибутом, которое добавлено на «{0}» поле «{1}» класса, должно иметь значение по умолчанию, чтобы появиться в Playground.",[LunaPlaygroundAsset] 添加到 '{1}'类的 '{0}' 字段中的属性必须具有默认值，才能在 Playground 中显示。
+Expert_ScaleOnCollider_Title,"Looks like a collider was scaled, this might affect performance.",Обнаружен масштабированный коллайдер,看起来碰撞器已进行缩放调整，这可能会影响性能
+Expert_ScaleOnCollider_Description,"Looks like {0} collider on {1} game object was scaled, this might affect performance.","Масштаб {0} коллайдера на игровом объекте {1} был изменен, это негативно скажется на производительности.",看起来 {1} 游戏对象上的 {0} 碰撞器已进行缩放调整，这可能会影响性能
+Expert_ShaderStripping_Title,Update shader stripping settings,Обновление параметров зачистки шейдера ,更新着色器剥离设置
+Expert_ShaderStripping_Description,Some of the scenes appear to have fog enabled and / or lightmapping data. Please modify 'Shader stripping' settings to always include required shader variants.,"В некоторых сценах включен туман и / или запечен свет. Пожалуйста, измените «Shader stripping» активируйте настройку на постоянное включение необходимых шейдерных вариантов.",某些场景似乎启用了雾和/或光映射数据。请修改“着色器剥离”设置，以始终包含所需的着色器变体。
+Expert_UnreadableTexture_Title,Unreadable texture.,Нечитаемые текстуры.,纹理不可读。
+Expert_UnreadableTexture_Description,Can't read '{0}' texture at '{1}'.,Не удается прочитать '{0}' текстуру на '{1}'.,无法读取 '{1}' 处的 '{0}' 纹理。
+,,,
+BuildStages_AssetsExporting,Assets exporting,Ассеты экспортируются,资源导出
+BuildStages_AssetsBundling,Assets bundling,Упаковка ассетов,资源捆绑
+BuildStages_CodeBundling,Code bundling,Сборка кода,代码捆绑
+BuildStages_PackageBundling,Package bundling,Сборка пакета,包捆绑
+BuildStages_PackageUploading,Package uploading,Загрузка пакета,包正在上传
+BuildStages_PackageUploadedSuccessfully,Package uploaded successfully,Пакет успешно загружен,包上传成功
+,,,
+ProjectDiagnostics_Title,Project Diagnostics,Диагностика проекта,项目诊断
+ProjectDiagnostics_LastBuild,Last Build,Последняя сборка,上一次构建
+ProjectDiagnostics_BuildID,Build ID,Идентификатор сборки,构建 ID
+ProjectDiagnostics_DevelopButton,Build project,Собрать проект,构建项目
+ProjectDiagnostics_AssetsDiagnostics,Assets diagnostics,Диагностика ассетов,资源诊断
+ProjectDiagnostics_CodeDiagnostics,Code diagnostics,Диагностика кода,代码诊断
+ProjectDiagnostics_AssetsExport,Assets Export,Экспорт ассетов,资源导出
+ProjectDiagnostics_AssetsProcessing,Assets Processing,Оптимизация ассетов,资源处理
+ProjectDiagnostics_Scripts,Scripts,Код,脚本
+ProjectDiagnostics_Package,Package,Пакет,包
+ProjectDiagnostics_Severity_Critical,Errors preventing export of your playable,Критические ошибки экспорта,导致您的可试玩广告无法导出的错误
+ProjectDiagnostics_Severity_HighImpact,Issues with high impact on performance and integrity,"Проблемы, влияющие на производительность",对性和完整性影响较大的问题
+ProjectDiagnostics_Severity_Suggestions,Suggestions and optimisations,Предложения по оптимизации,建议和优化
+ProjectDiagnostics_Filtered,Filtered,Скрыто,已过滤
+ProjectDiagnostics_Details,Details,Подробности,详细信息
+ProjectDiagnostics_FilePath,File path,Путь к файлу,文件路径
+ProjectDiagnostics_CopyLog,Copy log,Скопировать лог,复制日志
+ProjectDiagnostics_ReportIssue,Report issue,Сообщить о проблеме,报告问题
+ProjectDiagnostics_SelectLog,Select a log to view more details.,Открыть логи,选择日志以查看更多详细信息。
+,,,
+ProjectDiagnostics_ReportIssue_Title,Send log to Luna,Отправить лог в поддержку Luna,向 Luna 发送日志
+ProjectDiagnostics_ReportIssue_TopBody,"You can send logs to us for review. If you wish to report an issue with your build that you believe is the result of a bug or problem with Luna Playable.
+","Если вы обнаружили проблемы, пришлите нам лог. Проанализировав его, мы сможем быстрее и эффективнее помочь вам, а также попробуем устранить саму проблему в Luna Playable",您可将日志发送给我们进行检阅。如果您希望报告因 Luna Playable 故障造成的构建问题。
+ProjectDiagnostics_ReportIssue_BottomBody,"Please provide information about what caused the issue, steps for reproduction and anything else that may help us:
+","Укажите дополнительную информацию о проблеме: что предшествовало проблеме, шаги для воспроизведения или любую другую полезную информацию ",请提供导致问题发生相关的信息、问题复现的步骤，以及其他可能对我们有帮助的信息：
+ProjectDiagnostics_ReportIssue_Close,Close,Закрыть,关闭
+ProjectDiagnostics_ReportIssue_Submit,Submit,Отправить,提交
+,,,
+ProjectDiagnostics_Filter_Stages_AllStages,All stages,Все этапы,所有阶段
+ProjectDiagnostics_Filter_Stages_Stage1,Stage 1,Этап экспорта 1,第 1 阶段
+ProjectDiagnostics_Filter_Stages_Stage2,Stage 2,Этап экспорта 2,第 2 阶段
+ProjectDiagnostics_Filter_Stages_Stage3,Stage 3,Этап экспорта 3,第 3 阶段
+,,,
+ProjectDiagnostics_Filter_ErrorTypes_AllErrortypes,All Error Types,Все типы ошибок,所有错误类型
+ProjectDiagnostics_Filter_ErrorTypes_Uncategorized,Uncategorized,Без категории,未分类
+ProjectDiagnostics_Filter_ErrorTypes_CompilationError,Compilation Error,Ошибка компиляции,编译错误
+ProjectDiagnostics_Filter_ErrorTypes_ExportError,Export Error,Ошибка экспорта,导出错误
+ProjectDiagnostics_Filter_ErrorTypes_Performance,Performance,Производительность,性能
+ProjectDiagnostics_Filter_ErrorTypes_LunaSettings,Luna Settings,Настройки Luna,Luna 设置
+ProjectDiagnostics_Filter_ErrorTypes_Rendering,Rendering,Отрисовка,渲染
+ProjectDiagnostics_Filter_ErrorTypes_BuildSize,Build Size,Размер сборки,构建大小
+ProjectDiagnostics_Filter_ErrorTypes_EngineBuild,Engine Build,Размер движка,引擎构建
+,,,
+ProjectDiagnostics_Filter_SubTypes_AllSubTypes,All Error Sub Types,Все подкатегории ошибок,所有错误子类型
+ProjectDiagnostics_Filter_SubTypes_Uncategorized,Uncategorized,Без категории,未分类
+ProjectDiagnostics_Filter_SubTypes_MissingApi,Missing Api,Отсутствующая API,缺少 API
+ProjectDiagnostics_Filter_SubTypes_SyntaxError,Syntax Error,Синтаксическая ошибка,语法错误
+ProjectDiagnostics_Filter_SubTypes_LunaInternalFailure,Luna Internal Failure,Внутренняя ошибка,Luna 内部故障
+ProjectDiagnostics_Filter_SubTypes_DarkPatterns,Dark Patterns,Антипаттерн,深色图案
+ProjectDiagnostics_Filter_SubTypes_AssetSize,Asset Size,Размер ассета,资源规模
+ProjectDiagnostics_Filter_SubTypes_UISettings,Ui Settings,Настройки UI,Ui 设置
+ProjectDiagnostics_Filter_SubTypes_BestPractises,Best Practices,Оптимальный подход,最佳做法
+ProjectDiagnostics_Filter_SubTypes_RequiredPlayableAPI,Required Playable Api,Требования к плееблам,所需的 Playable API
+ProjectDiagnostics_Filter_SubTypes_Shaders,Shaders,Шейдеры,着色器
+ProjectDiagnostics_Filter_SubTypes_Assets,Assets,Ассеты,资源
+ProjectDiagnostics_Filter_SubTypes_Textures,Textures,Текстуры,纹理
+ProjectDiagnostics_Filter_SubTypes_Sounds,Sounds,Звуки,音效
+ProjectDiagnostics_Filter_SubTypes_Fonts,Fonts,Шрифты,字体
+ProjectDiagnostics_Filter_SubTypes_Video,Video,Видео,视频
+,,,
+Popup_ProjectDiagnostics_Title,Build Failed,Ошибка сборки,构建失败
+Popup_ProjectDiagnostics_Description,"Something went wrong, check Project Diagnostics for more information","Сборка завершена с проблемами. Для получения информации, откройте вкладку Диагностика Проекта",出错了，请检查项目诊断以获取更多信息
+Popup_ProjectDiagnostics_Ok,Open,Открыть,打开
+Popup_ProjectDiagnostics_Cancel,Close,Закрыть,关闭
+,,,
+ProjectDiagnostics_LP_HugeMesh_Description,"Big mesh usage, this might significantly increase output files size.",Большой размер меша,大网格使用，这可能会显著增加输出文件的大小。
+ProjectDiagnostics_LP_HugeMesh_Details,"Big mesh {0} used on {1} game object, this might significantly increase output files size and take too much memory",Тяжелый меш {0} используется на {1} игровом объекте. Рекомендуем уменьшить точность хранения информации или количество вершин,在 {1} 游戏对象上使用大网格 {0}，这可能会显著增加输出文件的大小并占用过多内存
+ProjectDiagnostics_LP_ShaderStripping_Description,Update shader stripping settings,Обновление параметров зачистки шейдера ,更新着色器去除设置
+ProjectDiagnostics_LP_ShaderStripping_Details,Some of the scenes appear to have fog enabled and / or lightmapping data. Please modify 'Shader stripping' settings to always include required shader variants.,"В некоторых сценах включен туман и / или запечен свет. Пожалуйста, измените «Shader stripping» активируйте настройку на постоянное включение необходимых шейдерных вариантов.",某些场景似乎启用了雾和/或光映射数据。请修改“着色器去除”设置，以始终包含所需的着色器变量。
+ProjectDiagnostics_LP_NonPotTexture_Description,"Non-repeat wrap mode used on a texture with non power-of-two dimensions, this might not be rendered correctly.","Текстура с разрешением, не кратным 2, использует non-repeat wrap mode. Она будет отображаться некорректно.",在非二维幂的纹理上使用的非重复换行模式，可能无法正确渲染。
+ProjectDiagnostics_LP_NonPotTexture_Details,"Non-repeat wrap mode used on '{0}' texture at '{1}' with non power-of-two dimensions, this might not be rendered correctly.","Игровой объект «{1}» содержит текстуру «{0}» с разрешением, не кратным 2, которая использует non-repeat wrap mode. Она будет отображаться некорректно.",在 '{1}' 非二维幂的 '{0}' 纹理上使用的非重复换行模式，可能无法正确渲染。
+ProjectDiagnostics_LP_DeferredRendering_Description,Deferred rendering is not supported,Отложенный рендеринг не поддерживается,不支持延迟渲染
+ProjectDiagnostics_LP_DeferredRendering_Details,"Due to compatibility reasons, Luna is only able to use Forward rendering path. Please adjust your player settings or force camera '{0}' into Forward mode.","Luna Playable не поддерживает Deferred rendering path. Пожалуйста, измените Player Settings или переведите камеры «{0}» в режим Forward.",由于兼容性原因，Luna 只能使用正向渲染路径。请调整您的玩家设置，或强制相机 '{0}' 进入正向模式。
+ProjectDiagnostics_LP_MissingShaderVariant_Description,No Luna.shader variants asset found,Коллекция шейдер вариантов не найдена,找不到 Luna.Shader 着色器变体资源
+ProjectDiagnostics_LP_MissingShaderVariant_Details,No Assets/Luna.shader variants asset was found. This might bloat your build with excessive shader variants.,Не найдена коллекция шейдер вариантов по пути Assets/Luna.shader variants. Это может увеличить размер вашего билда из-за чрезмерных вариантов шейдеров.,找不到 Assets/Luna.Shader 变体资源。过量使用着色器变体，可能导致您的构建大小显著增大。
+ProjectDiagnostics_LP_InvalidShaderVariant_Description,{0} has problems,Ошибка экспорта варианта шейдера {0},{0} 有问题
+ProjectDiagnostics_LP_InvalidShaderVariant_Details,Check shader could be compiled for gles rendering platforms (#pragma only_renderers),"Проверьте шейдер. Убедитесь, что он может быть скомпилирован под GLES rendering платформы (#pragma only_renderers)",检查是否能为 GLES 渲染平台编译着色器 (#pragma only_renderers)
+ProjectDiagnostics_LP_LinearColorSpace_Description,Linear color space is not supported,Линейное цветовое пространство не поддерживается,不支持线性色彩空间
+ProjectDiagnostics_LP_LinearColorSpace_Details,"Due to compatibility reasons, Luna is only able to use Gamma color space for rendering. Please adjust your player settings.","Luna Playable использует только цветовое пространство типа гамма для рендеринга. Пожалуйста, измените Player Settings.",由于兼容性原因，Luna 只能使用 Gamma 色彩空间进行渲染。请调整您的玩家设置。
+ProjectDiagnostics_LP_ManyMeshCollider_Description,Extensive use of mesh colliders,Частое использование меш коллайдеров,网格碰撞器的广泛使用
+ProjectDiagnostics_LP_ManyMeshCollider_Details,Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.,"Использование меш коллайдеров негативно влияет на производительность.
+При этом их можно заменить на примитивные коллайдеры.",网格碰撞器的使用对性能有负面影响。您可转而使用原始碰撞器。
+ProjectDiagnostics_LP_NullComponent_Description,There are missing components on {0}.,Есть недостающие компоненты на {0}.,{0} 上缺少组件。
+ProjectDiagnostics_LP_NullComponent_Details,There are missing components on {0}.,Есть недостающие компоненты на {0}.,{0} 上缺少组件。
+ProjectDiagnostics_LP_PlaygroundAssetValue_Description,Playground Asset has no default value,Playground ассеты не имеют значения по умолчанию,Playground 资源没有默认值
+ProjectDiagnostics_LP_PlaygroundAssetValue_Details,[LunaPlaygroundAsset] Attribute added onto '{0}' field of '{1}' class must have a default value to appear in Playground.,"Поле, помеченное [LunaPlaygroundAsset] атрибутом, которое добавлено на «{0}» поле «{1}» класса, должно иметь значение по умолчанию, чтобы появиться в Playground.",添加到 '{1}'类的 '{0}' 字段中的 [LunaPlaygroundAsset] 属性必须具有默认值，才能在 Playground 中显示。
+ProjectDiagnostics_LP_ScaleOnCollider_Description,"Looks like a collider was scaled, this might affect performance.",Обнаружен масштабированный коллайдер,看起来碰撞器已进行缩放调整，这可能会影响性能
+ProjectDiagnostics_LP_ScaleOnCollider_Details,"Looks like {0} collider on {1} game object was scaled, this might affect performance.","Масштаб {0} коллайдера на игровом объекте {1} был изменен, это негативно скажется на производительности.",看起来 {1} 游戏对象上的 {0} 碰撞器已进行缩放调整，这可能会影响性能
+ProjectDiagnostics_LP_UnreadableTexture_Description,Unreadable texture.,Нечитаемые текстуры.,纹理不可读。
+ProjectDiagnostics_LP_UnreadableTexture_Details,Can't read '{0}' texture at '{1}'.,Не удается прочитать '{0}' текстуру на '{1}'.,无法读取 '{1}' 处的 '{0}' 纹理。
+ProjectDiagnostics_LP_Export_Description,Asset export: {0},Экспорт ассета: {0},资源导出{0}
+ProjectDiagnostics_LP_UnpackedSpriteAtlas_Description,Sprite Atlas not packed {0},"Спрайт атлас ""{0}"" не упакован",Sprite Atlas 未打包 {0}
+ProjectDiagnostics_LP_UnpackedSpriteAtlas_Details,Make sure 'Include in build' is toggled for related sprite atlases\nSprite: {0}\nAtlas: {1}\n{2},Убедитесь что опция 'Include in Build' включена для родительского спрайт атласа.\nСпрайт: {0}\nАтлас: {1}\n{2},确保相关的 sprite atlases\nSprite: {0}\nAtlas: {1}\n{2} 选中了 “在构建中包含” 选项
+ProjectDiagnostics_LP_Asset_Description,Asset Processing: {0},Обработка ассета: {0},资源处理：{0}
+ProjectDiagnostics_LP_FailedToCombineGlyphs_Description,Couldn't create bitmap for the font {0},Ошибка создания текстуры шрифта,为字体创建位图失败 {0}
+ProjectDiagnostics_LP_FailedToCombineGlyphs_Details,Failed to combine glyphs to {0}\nPlease check what's wrong by running: {1},Не удалось запечь текстуру для шрифта {0}.\nДополнительную информацию можно получить используя {1},未能将字形组合到 {0} 中\n 请运行以下命令检查错误情况：{1}
+ProjectDiagnostics_LP_SoundCompression_Description,Sound compression failed,Ошибка компрессии аудиофайла,音效压缩失败
+ProjectDiagnostics_LP_SoundCompression_Details,Failed to compress sound {0}\n{1},Не удалось обработать аудио клип {0}\n{1},压缩音效失败 {0}\n{1}
+ProjectDiagnostics_LP_TextureCompression_Description,Texture compression failed,Ошибка компрессии текстуры,纹理压缩失败
+ProjectDiagnostics_LP_TextureCompression_Details,Failed to compress texture {0}\n{1},Не удалось обработать текстуру {0}\n{1},压缩纹理失败 {0}\n{1}
+ProjectDiagnostics_LP_CustomScript_Description,Asset Processing Failed,Ошибка обработки ассета,资源处理失败
+ProjectDiagnostics_LP_CustomScript_Details,"Failed to process asset  {0}, Check custom script {1} attached to {2}\n{3}",Не удалось обработать ассет {0}. Проверьте специализированный скрипт {1} применяемый к {2}\n{3},处理资源失败 {0}，请检查附加到 {2} 的自定义脚本 {1}\n{3}
+ProjectDiagnostics_LP_EngineBuild_Description,Engine build exception,Ошибка сборки,引擎构建异常
+ProjectDiagnostics_LP_AssetManifest_Details,Asset Path: {0}\nJSON: {1},Путь к ассету: {0}\nJSON: {1},资源路径：{0}\nJSON: {1}
+,,,
+ProjectDiagnostics_OpenDocs,Open Documentation,Открыть документацию,打开文档
+ProjectDiagnostics_BuildSuccessful,Build Successful,Сборка завершена успешно,构建成功
+ProjectDiagnostics_BuildFailed,Build failed at,Сборка прервана на,构建失败位置
+ProjectDiagnostics_ReportIssue_Success,Report sent successfully!,Отчет отправлен успешно!,报告发送成功！
+,,,
+ProjectDiagnostics_LP_MSBuildVersion_Description,Invalid MSBuild version,Невалидная MSBuild версия,无效的 MSBuild 版本
+ProjectDiagnostics_LP_MSBuildVersion_Details,MSBuild 15 or higher is required. Please make sure you have a proper path to MSBuild configured in Luna UI.\nMSBuild can be updated through the Visual Studio installer or here\nhttps://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16\nCurrent path in use: '{0}',"Требуется MSBuild версии 15 или выше. Пожалуйста, убедитесь, что Вы указали верный путь к MSBuild в окне плагина.\nMSBuild может быть обновлен через Visual Studio установщик или по этой ссылке\nhttps://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16\nТекущий путь: '{0}'",需要 MSBuild 15 或更高版本。请确保在 Luna UI 中正确配置了 MSBuild 的路径。\nMSBuild 可以从 Visual Studio Installer 更新或从这里下载\nhttps://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16\n现在使用的路径: '{0}'
+ProjectDiagnostics_LP_MSBuildPath_Description,Invalid MSBuild path,Невалидный путь к MSBuild ,无效的 MSBuild 路径
+ProjectDiagnostics_LP_MSBuildPath_Details,MSBuild failed to be invoked. Please make sure you have a proper path to MSBuild 15 or higher binary configured in Luna UI.\nMSBuild can also be installed through the visual studio installer or here\nhttps://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16\nCurrent path in use: '{0}',"Не удалось вызвать MSBuild. Пожалуйста, убедитесь, что Вы указали верный путь к MSBuild в окне плагина.\nMSBuild может быть обновлен через Visual Studio установщик или по этой ссылке\nhttps://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16\nТекущий путь: '{0}'",MSBuild 调用失败。请确保在 Luna UI 中正确配置了 MSBuild 15 或更高版本的路径。\nMSBuild 可以从 Visual Studio Installer 更新或从这里下载\nhttps://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16\n现在使用的路径: '{0}'
+ProjectDiagnsotics_LP_DotNetVersion_Description,Invalid .Net version,Невалидная версия .Net,无效的 .Net 版本
+ProjectDiagnostics_LP_DotNetVersion_Details,.Net 4.7 or higher is required. Please make sure .Net 4.7 is installed\nhttps://docs.lunalabs.io/docs/playable/setup/dependencies/#install-net-47,"Необходима .Net 4.7 или выше. Пожалуйста, убедитесь, что .Net 4.7 установлена\nhttps://docs.lunalabs.io/docs/playable/setup/dependencies/#install-net-47",需要 .Net 4.7 或更高版本。请确保已安装 .Net 4.7\nhttps://docs.lunalabs.io/docs/playable/setup/dependencies/#install-net-47
+,,,
+Advanced_Tools_Msbuild_Warning,"The MSBuild path is either invalid, or the msbuild version is incompatible, Please make sure you have a proper path to MSBuild 15 or above configured in Luna UI. Click here to install MSBuild 15","Путь к MSBuild невалиден или выбранная версия несовместима. Пожалуйста, убедитесь, что Вы указали верный путь к MSBuild версии 15 или выше в окне плагина. Нажмите сюда, чтобы установить MSBuild 15 версии.",MSBuild 路径无效或版本不兼容，请确保在 Luna UI 中正确配置了 MSBuild 15 或以上版本的路径。点击这里安装 MSBuild 15
+,,,
+PlaygroundSection_Applications,Available Applications,Доступные Applications,可选应用
+PlaygroundSection_CreativeName,Creative Name,Имя Креатива,创意名称
+PlaygroundSection_EmptyNameWarning,Please fill in the Creative name,"Пожалуйста, заполните имя Креатива",请输入创意名称
+Popup_RuntimeAnalysisReady_Title,Runtime Analysis,Анализ кода,运行时分析
+Popup_RuntimeAnalysisReady_Description,You will now need to play the game through in the browser so the Runtime Analysis tool can find scripts and classes that aren’t used. Play the game and refresh as many times as needed until you feel that you’ve touched all potential parts of the gameplay,"Вам необходимо пройти игру в браузере чтобы Анализ кода мог найти скрипты и классы, которые не используются. Играйте в игру и обновляйте столько раз, сколько необходимо, пока Вы не будете уверены, что затронули все части геймплея",为了让运行时分析工具找出未使用的脚本和类，现在需要您在浏览器中进行游戏。您可以尽可能多次的进行游戏流程直到您觉得所有可能使用的代码都已被检测到。
+SizeBreakdownSection_OptimizeScripts,Optimise scripts,Оптимизировать скрипты,优化脚本
+SizeBreakdownSection_RuntimeAnalysisSavedSize,{0} was saved by using Runtime Analysis,{0} был сохранен благодаря Анализу кода,使用运行时分析节省了 {0}
+SizeBreakdownSection_RuntimeAnalysisNotRun,"We recommend running Runtime Analysis to find and remove all unused code. Navigate to the Code > Runtime Analysis tab or hit ""Optimise Scripts"" and press ""Start Analysis""","Рекомендуем запустить Анализ кода чтобы найти и исключить весь неиспользуемый код. Перейдите в секцию Код > вкладка Анализ кода или нажмите ""Оптимизировать скрипты"", затем нажмите ""Начать анализ""","我们建议使用运行时分析来找出并排除未使用的代码。选择 代码 > 运行时分析 并点击 ""开始分析"""
+ProjectDiagnostics_LP_ShouldTryRuntimeAnalysis_Description,We recommend running Runtime Analysis to find and remove all unused code,Рекомендуем запустить Анализ кода чтобы найти и исключить весь неиспользуемый код,我们建议使用运行时分析工具来找出并移除未使用的代码
+ProjectDiagnostics_LP_ShouldTryRuntimeAnalysis_Details,"Navigate to the Code > Runtime Analysis tab and hit ""Start Analysis""","Перейдите в секцию Код > вкладка Анализ кода и нажмите ""Начать анализ""","选择 代码 > 运行时分析 并点击 ""开始分析"""
+RuntimeAnalysisTab_Title,Runtime Analysis,Анализ кода,运行时分析
+RuntimeAnalysisTab_Start,Start Analysis,Начать анализ,开始分析
+RuntimeAnalysisTab_Reset,Reset,Сбросить,重置
+Popup_RuntimeAnalysisReady_Ok,Okay,Окей,好的
+Popup_RuntimeAnalysisReady_Cancel,Cancel,Отмена,取消
+RuntimeAnalysisTab_Description,Click 'Start Analysis' to analyse the game during runtime to find and exclude all unused code and redundant shader variants.\nYou must play the entire game to make sure that needed code will not be excluded,"Нажмите 'Начать анализ' чтобы проанализировать билд в браузере для нахождения и исключения всего\nнеиспользуемого кода и лишних шейдер вариантов. Вы должны пройти всю игру чтобы быть уверенными, что необходимый\nкод не будет исключен",点击 '开始分析' 来找出并排除游戏运行时没有用到的代码 \n您必须通过完整进行游戏流程来确保所有需要的代码不会被排除
+RuntimeAnalysisTab_ExcludedCode,Excluded Code,Исключённый код,被排除的代码
+RuntimeAnalysisTab_ExcludedModules,Excluded Modules,Исключённые модули,被排除的模块
+RuntimeAnalysisTab_ModulePrefix_physics3d,Physics 3D,Physics 3D,Physics 3D
+RuntimeAnalysisTab_ModulePrefix_physics2d,Physics 2D,Physics 2D,Physics 2D
+RuntimeAnalysisTab_ModulePrefix_particle-system,Particle System,Particle System,Particle System
+,,,
+PlaygroundSection_OpenPlayground,Open Playground,Открыть Playground,打开 Playground
+PlaygroundSection_RefreshToolTip,Refresh available Applications,Обновить доступные Applications,刷新现有应用
+EditorTab_AdNetworkSettings_FbDisableCompression,Disable Compression,Отключить сжатие,禁用压缩
+Advanced_ForceBase64,Use Base64 encoding,Сжатие Base64,使用 Base64 编码
+SizeBreakdownSection_Base64,"You can reduce size of you playable by up to ~15% by unchecking ""Use Base64 encoding"" in Settings > Advanced tab","Вы можете уменьшить размер билда на ~15%, выключив ""Сжатие Base64"" в Настройки > вкладка Дополнительные",您可以在 设置 > 高级 中取消 “使用 Base64 编码” 来减少 Playable 最多约15%的大小
+,,,
+ProjectDiagnostics_LP_TextMeshProVersion_Description,This TMP version is not fully supported,Эта версия TMP не поддерживается полностью,此 TMP 版本未被完全支持
+ProjectDiagnostics_LP_TextMeshProVersion_Details,"The incorrect Text Mesh Pro for this unity version is in use, please update to the recommended version: {0}","Используется некорректная версия Text Mesh Pro, пожалуйста, обновите ее до рекомендуемой версии: {0}",此 Unity 使用了错误的 Text Mesh Pro 版本，请更新至推荐版本: {0}
+Advanced_Preloader_Background_Color,Background Color,Цвет фона,背景颜色
+Universal_Reset,Reset,Сбросить,重置
+,,,
+Advanced_Tools_MSBuildWarning_Path,"<color=white>The MSBuild path is invalid, please specify a valid path to MSBuild version 15 or above.</color>\nClick here to view documentation on how to update or install a new version of MSBuild","<color=white>Путь к MSBuild невалиден, пожалуйста, укажите верный путь к MSBuild версии 15 или выше.</color>\nНажмите сюда, чтобы увидеть документацию или как обновить или установить новую версию MSBuild",<color=white>MSBuild 路径无效，请指定 MSBuild 15 或更高版本的有效路径。</color>\n点击此处查看有关如何更新或安装新版本 MSBuild 的文档
+Advanced_Tools_MSBuildWarning_Version,<color=white>The Version of MSBuild you are trying to use does not meet version requirements.</color>\nClick here to view documentation on how to install a new version of MSBuild,"<color=white>Версия MSBuild, которую вы используете, не отвечает требованиям.</color>\nНажмите сюда, чтобы увидеть документацию или как обновить или установить новую версию MSBuild",<color=white>您正在尝试使用的 MSBuild 不符合版本要求。</color>\n点击此处查看关于如何安装新版本 MSBuild 的文档
+Advanced_Tools_MSBuildWarning_DotNet,<color=white>The version of MSBuild you are trying to use does not have a required dependency.</color>\nClick here to view how to add the '.Net Desktop Development' workload to your visual studio installation,"<color=white>Версия MSBuild, которую вы используете, не имеет необходимой зависимости.</color>\nНажмите сюда, чтобы узнать как добавить .Net Desktop Development в установщик visual studio",<color=white>您正在尝试使用的 MSBuild 缺少必要的依赖项。</color>\n点击此处查看如何添加 ‘.Net 桌面开发’ 工作负载到您的 Visual Studio 中
+MSBuild_WarningBanner,"MSBuild is misconfigured, this prevents playables from being built. Click here to view the Advanced settings tab","MSBuild неправильно настроен, это препятствует сборке билда. Нажмите сюда чтобы перейти в раздел «Дополнительные настройки»",MSBuild 配置不正确，这会阻止构建 Playable。点击此处查看高级设置选项
+,,,
+SVC_Tab_Label,Shaders,Шейдеры,着色器
+SVC_Tab_LunaSVC_AssetNotFound,"""Luna.shadervariants"" asset not found!","""Luna.shadervariants"" ассет не найден!","未找到 ""Luna.shadervariants"" 文件"
+SVC_Tab_LunaSVC_Create,Create new Shader Variant Collection,Создать новую коллекцию вариантов,创建新的着色器变体集合
+,,,
+SVC_Element_AddShaderAndVariants,Add Shader and Variants:,Добавить шейдер и варианты:,添加着色器和变体
+SVC_Element_Add,Add,Добавить,添加
+SVC_Element_ShowHidden,Show hidden,Показать исключенные,显示隐藏
+SVC_Element_ErrorMsgTemplate,Filename: {0} Pass: {1} - does not support two or more keywords from the same shader_feature!,"Файл: {0} Пасс: {1} - Вариант не поддерживается! Возможно, вы используете два кейворда из одной shader_feature!",文件名: {0} 通道: {1} - 不支持来自同一个 shader_feature 的两个或多个关键字!
+SVC_Element_WarningMsgTemplate,Filename: {0} Pass: {1} - selected keyword set exist!,Файл: {0} Пасс: {1} - данный вариант уже существует!,文件名: {0} 通道: {1} - 所选关键字集存在!
+,,,
+SVC_Inspector_ShaderVariants,Shader variants used on scenes,"Шейдер варианты, используемые на сцене",场景中使用的着色器变体
+SVC_Inspector_IncludedVariants,Shader variants included by User,"Шейдер варианты, добавленные пользователем",用户包含的着色器变体
+SVC_Inspector_ExcludedVariants,Shader variants excluded by User,"Шейдер варианты, исключенные пользователем",用户排除的着色器变体
+SVC_Inspector_Window_Btn,Edit,Изменить,编辑
+SVC_Inspector_UsedByLuna,Shader variants ( Runtime Analysis ),Шейдер варианты ( Runtime Analysis ),着色器变体 ( Runtime Analysis )
+RuntimeAnalysisTab_Pause,Pause Runtime Analysis,Приостановить анализ кода,暂停运行时分析
+,,,
+ProjectDiagnostics_AssetsExportOnly,Build Project (Assets only),Собрать проект (только ассеты),构建项目 (仅资源)
+ProjectDiagnostics_CodeExportOnly,Build Project (Code only),Собрать проект(только код),构建项目 (仅代码)
+ProjectDiagnostics_OptimiseExportWithCaching,Optimize export with Caching,Кэшировать экспорт,使用缓存优化导出

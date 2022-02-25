@@ -1,0 +1,211 @@
+{
+    "BuildID": "fa40a048-d474-4aa4-afaa-849105ab253c",
+    "Command": "project:build",
+    "ProjectID": "57b0ae46-a39f-4c22-b7f4-4ebb5b2a384e",
+    "ProjectStateHash": "f7395201953581d3814d08b60ae731a4ddbc2ac8a9c153ff1e1a8fc585b58b9b",
+    "StageCompletedAt": 2,
+    "EarliestFatalError": 0,
+    "StartTime": 1645784121251,
+    "EndTime": 1645784171104,
+    "PlaygroundUserID": 3181,
+    "OperatingSystem": "win32",
+    "UnityVersion": "2020.3.27f1",
+    "LunaVersion": "3.2.0",
+    "LogCount": 7,
+    "Logs": [
+        {
+            "LogID": "72c1ef9d-808b-4421-bab5-bd9c804cb0f4",
+            "Order": 0,
+            "Timestamp": 1645784125925,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 1,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1008",
+            "Description": "There are missing components on Square (1).",
+            "Details": [
+                "There are missing components on Square (1)."
+            ],
+            "DescriptionValues": [
+                "Square (1)"
+            ],
+            "DetailsValues": [
+                "Square (1)"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "f53a0c2b-2556-48f7-9879-d0b4a500b15e",
+            "Order": 1,
+            "Timestamp": 1645784128470,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 1,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1008",
+            "Description": "There are missing components on Square.",
+            "Details": [
+                "There are missing components on Square."
+            ],
+            "DescriptionValues": [
+                "Square"
+            ],
+            "DetailsValues": [
+                "Square"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "8c3d8b33-8fe0-48c9-8d8a-75056ed0274a",
+            "Order": 2,
+            "Timestamp": 1645784129663,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 1,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1008",
+            "Description": "There are missing components on Square (1).",
+            "Details": [
+                "There are missing components on Square (1)."
+            ],
+            "DescriptionValues": [
+                "Square (1)"
+            ],
+            "DetailsValues": [
+                "Square (1)"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "2af83c31-1a65-4dc6-adf9-0e9168bd7176",
+            "Order": 3,
+            "Timestamp": 1645784132214,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 1,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1008",
+            "Description": "There are missing components on Square.",
+            "Details": [
+                "There are missing components on Square."
+            ],
+            "DescriptionValues": [
+                "Square"
+            ],
+            "DetailsValues": [
+                "Square"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "3f4600c8-f0ab-4f77-b615-6eb7afefad27",
+            "Order": 4,
+            "Timestamp": 1645784133394,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 1,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1008",
+            "Description": "There are missing components on Square (1).",
+            "Details": [
+                "There are missing components on Square (1)."
+            ],
+            "DescriptionValues": [
+                "Square (1)"
+            ],
+            "DetailsValues": [
+                "Square (1)"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "05c7d808-1300-43fd-82d4-6ff4134078a5",
+            "Order": 5,
+            "Timestamp": 1645784135949,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 1,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1008",
+            "Description": "There are missing components on Square.",
+            "Details": [
+                "There are missing components on Square."
+            ],
+            "DescriptionValues": [
+                "Square"
+            ],
+            "DetailsValues": [
+                "Square"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "37077044-9e90-403e-8414-92570be9b1d9",
+            "Order": 6,
+            "Timestamp": 1645784165868,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 7,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1002",
+            "Description": "Non-repeat wrap mode used on a texture with non power-of-two dimensions, this might not be rendered correctly.",
+            "Details": [
+                "magnet",
+                "11",
+                "10",
+                "9",
+                "7",
+                "6",
+                "2 1",
+                "5",
+                "3 1",
+                "8",
+                "grille",
+                "wall_1",
+                "wall_2",
+                "4 1",
+                "gold_back",
+                "gate_c",
+                "gate_b",
+                "gate_a",
+                "level_board",
+                "broken_platform",
+                "ground2",
+                "tutorial_board",
+                "star",
+                "heart"
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [],
+            "LogCount": 24,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        }
+    ]
+}

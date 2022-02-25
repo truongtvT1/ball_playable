@@ -1,0 +1,615 @@
+
+ball.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cat/L_beard
+  rotate: true
+  xy: 43, 83
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Cat/L_ear
+  rotate: false
+  xy: 110, 193
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Cat/R_beard
+  rotate: true
+  xy: 43, 44
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Cat/R_ear
+  rotate: false
+  xy: 110, 144
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Cat/body
+  rotate: false
+  xy: 269, 379
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Cat/cute
+  rotate: false
+  xy: 323, 192
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Cat/eye_1
+  rotate: false
+  xy: 56, 122
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Cat/eyelid
+  rotate: true
+  xy: 151, 71
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Cat/nose
+  rotate: false
+  xy: 352, 232
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Doraemon/bell
+  rotate: false
+  xy: 177, 97
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Doraemon/body
+  rotate: false
+  xy: 264, 249
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Doraemon/cute
+  rotate: false
+  xy: 328, 211
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Doraemon/eye_1
+  rotate: false
+  xy: 56, 182
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Doraemon/eyelid
+  rotate: true
+  xy: 227, 121
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Doraemon/laugh_mouth
+  rotate: true
+  xy: 2, 45
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+Cat/laugh_mouth
+  rotate: true
+  xy: 2, 45
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+Doraemon/nose
+  rotate: false
+  xy: 202, 101
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Doraemon/uwu_mouth
+  rotate: true
+  xy: 305, 171
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+Ironman/body
+  rotate: false
+  xy: 139, 379
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ironman/cute
+  rotate: false
+  xy: 328, 230
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Ironman/eye_1
+  rotate: false
+  xy: 2, 122
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Ironman/eyelid
+  rotate: true
+  xy: 227, 172
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Ironman/laugh_mouth
+  rotate: true
+  xy: 110, 67
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+Ironman/shine
+  rotate: true
+  xy: 253, 145
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Ironman/suprise_mouth
+  rotate: false
+  xy: 35, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Cat/suprise_mouth
+  rotate: false
+  xy: 35, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Doraemon/suprise_mouth
+  rotate: false
+  xy: 35, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Ironman2/body
+  rotate: true
+  xy: 2, 242
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+Ironman2/crying_eye_R
+  rotate: true
+  xy: 195, 125
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Ironman2/eye_1
+  rotate: true
+  xy: 195, 125
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Ironman2/cute
+  rotate: false
+  xy: 323, 173
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+ball/body
+  rotate: false
+  xy: 134, 242
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ball/body_shadow
+  rotate: false
+  xy: 2, 372
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+Cat/body_shadow
+  rotate: false
+  xy: 2, 372
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+Doraemon/body_shadow
+  rotate: false
+  xy: 2, 372
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+Ironman/body_shadow
+  rotate: false
+  xy: 2, 372
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+Ironman2/body_shadow
+  rotate: false
+  xy: 2, 372
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+ball/brow
+  rotate: false
+  xy: 376, 235
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+Cat/brow
+  rotate: false
+  xy: 376, 235
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+Doraemon/brow
+  rotate: false
+  xy: 376, 235
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+Ironman/brow
+  rotate: false
+  xy: 376, 235
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+ball/crying_eye_R
+  rotate: true
+  xy: 275, 130
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Cat/crying_eye_R
+  rotate: true
+  xy: 275, 130
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Doraemon/crying_eye_R
+  rotate: true
+  xy: 275, 130
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Ironman/crying_eye_R
+  rotate: true
+  xy: 275, 130
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+ball/crying_mouth
+  rotate: true
+  xy: 264, 169
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+Cat/crying_mouth
+  rotate: true
+  xy: 264, 169
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+Doraemon/crying_mouth
+  rotate: true
+  xy: 264, 169
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+Ironman/crying_mouth
+  rotate: true
+  xy: 264, 169
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+ball/crying_tear_R
+  rotate: false
+  xy: 253, 117
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+ball/cute
+  rotate: true
+  xy: 177, 72
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+ball/dead_eye
+  rotate: false
+  xy: 80, 91
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Cat/dead_eye
+  rotate: false
+  xy: 80, 91
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Doraemon/dead_eye
+  rotate: false
+  xy: 80, 91
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Ironman/dead_eye
+  rotate: false
+  xy: 80, 91
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+ball/eye_1
+  rotate: false
+  xy: 2, 182
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+ball/eye_2
+  rotate: false
+  xy: 195, 167
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Cat/eye_2
+  rotate: false
+  xy: 195, 167
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Doraemon/eye_2
+  rotate: false
+  xy: 195, 167
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Ironman/eye_2
+  rotate: false
+  xy: 195, 167
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ball/eye_3
+  rotate: false
+  xy: 305, 226
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Cat/eye_3
+  rotate: false
+  xy: 305, 226
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Doraemon/eye_3
+  rotate: false
+  xy: 305, 226
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Ironman/eye_3
+  rotate: false
+  xy: 305, 226
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ball/eyelid
+  rotate: true
+  xy: 80, 40
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+ball/laugh_mouth
+  rotate: true
+  xy: 154, 122
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+ball/mouth
+  rotate: false
+  xy: 329, 157
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+Cat/mouth
+  rotate: false
+  xy: 329, 157
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+Doraemon/mouth
+  rotate: false
+  xy: 329, 157
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+Ironman/mouth
+  rotate: false
+  xy: 329, 157
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+ball/mouth_dead_by_water
+  rotate: false
+  xy: 154, 199
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Cat/mouth_dead_by_water
+  rotate: false
+  xy: 154, 199
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Doraemon/mouth_dead_by_water
+  rotate: false
+  xy: 154, 199
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Ironman/mouth_dead_by_water
+  rotate: false
+  xy: 154, 199
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ball/sad_brow
+  rotate: true
+  xy: 226, 98
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Cat/sad_brow
+  rotate: true
+  xy: 226, 98
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Doraemon/sad_brow
+  rotate: true
+  xy: 226, 98
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Ironman/sad_brow
+  rotate: true
+  xy: 226, 98
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+ball/sad_tear_R
+  rotate: true
+  xy: 202, 78
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+ball/shine
+  rotate: false
+  xy: 305, 149
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Cat/shine
+  rotate: false
+  xy: 305, 149
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Doraemon/shine
+  rotate: false
+  xy: 305, 149
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+ball/suprise_mouth
+  rotate: false
+  xy: 2, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+ball/tear
+  rotate: false
+  xy: 197, 199
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+ball/uwu_mouth
+  rotate: false
+  xy: 197, 223
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+Cat/uwu_mouth
+  rotate: false
+  xy: 197, 223
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+Ironman/uwu_mouth
+  rotate: false
+  xy: 197, 223
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
